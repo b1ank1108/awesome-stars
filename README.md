@@ -4,26 +4,26 @@
 
 ## 统计信息
 
-总仓库数：818个
+总仓库数：832个
 分类数：17个
 
-- 逆向破解: 59个仓库
-- 开发工具&框架: 150个仓库
+- 逆向破解: 60个仓库
+- 开发工具&框架: 151个仓库
 - 取证溯源: 10个仓库
-- 信息搜集: 75个仓库
+- 信息搜集: 76个仓库
 - LLM安全: 12个仓库
-- Web安全: 63个仓库
-- 漏洞扫描: 52个仓库
-- 红队&渗透测试: 173个仓库
-- AI应用: 59个仓库
+- Web安全: 64个仓库
+- 漏洞扫描: 53个仓库
+- 红队&渗透测试: 175个仓库
+- AI应用: 62个仓库
 - burpsuite插件: 24个仓库
 - CTF相关: 29个仓库
 - DevOps: 37个仓库
-- 云安全: 11个仓库
-- 扫描字典: 9个仓库
+- 云安全: 13个仓库
+- 扫描字典: 10个仓库
 - 代码审计: 32个仓库
 - 其他: 9个仓库
-- bugbounty: 14个仓库
+- bugbounty: 15个仓库
 
 ## 目录
 
@@ -54,10 +54,11 @@
 - [Acmesec/theAIMythbook](https://github.com/Acmesec/theAIMythbook) - Ai迷思录（应用与安全指南）
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [b1ank1108/LLM-Star-Classifier](https://github.com/b1ank1108/LLM-Star-Classifier) - 这是一个使用 🤖 AI 对 GitHub Star 的仓库进行分类和总结的工具。
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
@@ -65,7 +66,8 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
 - [code-scan/AutoSubtitles](https://github.com/code-scan/AutoSubtitles) - 
-- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库（微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
+- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库 - 微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档。
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -81,6 +83,7 @@
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
@@ -231,6 +234,7 @@
 - [juanjolmm/java-secure-file-upload](https://github.com/juanjolmm/java-secure-file-upload) - Java library used to upload files following the security steps described by OWASP
 - [Junehck/SQL-injection-bypass](https://github.com/Junehck/SQL-injection-bypass) - 记录实战中的各种sql注入绕过姿势
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
+- [kk12-30/JSSS-Find](https://github.com/kk12-30/JSSS-Find) - 一个自动化js提取、Api接口测试、暴露端点检测工具
 - [LandGrey/spring-boot-upload-file-lead-to-rce-tricks](https://github.com/LandGrey/spring-boot-upload-file-lead-to-rce-tricks) - spring boot Fat Jar 任意写文件漏洞到稳定 RCE 利用技巧
 - [LandGrey/webshell-detect-bypass](https://github.com/LandGrey/webshell-detect-bypass) - 绕过专业工具检测的Webshell研究文章和免杀的Webshell
 - [LeadroyaL/java-xxe-defense-demo](https://github.com/LeadroyaL/java-xxe-defense-demo) - java xxe defense demo
@@ -265,6 +269,7 @@
 ## bugbounty
 
 - [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
+- [antoinet/swiss-bugbounty-programs](https://github.com/antoinet/swiss-bugbounty-programs) - List of bug bounty and coordinated vulnerability disclosure programs of companies/organisations in Switzerland
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) - This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
@@ -310,9 +315,11 @@
 
 - [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
+- [Esonhugh/k8spider](https://github.com/Esonhugh/k8spider) - Powerful+Fast+Low Privilege Kubernetes discovery tools
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 - [EvilAnne/lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
+- [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [HXSecurity/TerraformGoat](https://github.com/HXSecurity/TerraformGoat) - TerraformGoat is HXSecurity research lab's "Vulnerable by Design" multi cloud deployment tool.
 - [kvesta/vesta](https://github.com/kvesta/vesta) - A static analysis of vulnerabilities, Docker and Kubernetes cluster configuration detect toolkit based on the real penetration of cloud computing
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -420,6 +427,7 @@
 - [SiJiDo/IEyes](https://github.com/SiJiDo/IEyes) - icp备案查询
 - [SocialSisterYi/OpenSTD_Spider](https://github.com/SocialSisterYi/OpenSTD_Spider) - 国家标准全文公开系统下载工具
 - [Taonn/EmailAll](https://github.com/Taonn/EmailAll) - EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具
+- [thinkoaa/Deadpool](https://github.com/thinkoaa/Deadpool) - deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理，轮询使用代理进行流量转发。
 - [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go) - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
@@ -576,6 +584,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+- [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. 
@@ -618,6 +627,7 @@
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers. 
+- [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL
 - [SexyBeast233/SecDictionary](https://github.com/SexyBeast233/SecDictionary) - 实战沉淀字典
 - [trickest/mkpath](https://github.com/trickest/mkpath) - Make URL path combinations using a wordlist
@@ -647,6 +657,7 @@
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [honmashironeko/sqlmap-gui](https://github.com/honmashironeko/sqlmap-gui) - 基于官版本 SQLMAP 进行人工汉化，并提供GUI界面及多个自动化脚本
 - [iamHuFei/HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。
+- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - A security scanning tool for MCP servers
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
@@ -706,6 +717,7 @@
 - [chriskaliX/AD-Pentest-Notes](https://github.com/chriskaliX/AD-Pentest-Notes) - 用于记录内网渗透(域渗透)学习 :-)
 - [co01cat/SqlmapXPlus](https://github.com/co01cat/SqlmapXPlus) - sqlmap Xplus 基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开！
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
+- [Conan924/GodInfo](https://github.com/Conan924/GodInfo) - GodInfo 是一个功能全面的后渗透信息和凭据收集工具，旨在帮助安全测试人员在获得授权访问权限后，快速收集目标系统的信息和凭据。
 - [corener/JavaPassDump](https://github.com/corener/JavaPassDump) - JavaPassDump
 - [CreeperKong/zipbomb-generator](https://github.com/CreeperKong/zipbomb-generator) - A simple zipbomb generator 压缩包炸弹生成器
 - [cseroad/Exp-Tools](https://github.com/cseroad/Exp-Tools) - 一款集成高危漏洞exp的实用性工具
@@ -821,6 +833,7 @@
 - [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
 - [TideSec/GoBypassAV](https://github.com/TideSec/GoBypassAV) - 整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。
 - [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
+- [Tokeii0/FakeLinuxBaseLineCheck](https://github.com/Tokeii0/FakeLinuxBaseLineCheck) - 
 - [TophantTechnology/Daybreak](https://github.com/TophantTechnology/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
 - [TryGOTry/AutoGeaconC2](https://github.com/TryGOTry/AutoGeaconC2) - AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike
 - [TryGOTry/CobaltStrike_Cat_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)
@@ -875,6 +888,7 @@
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 - [deezertidal/stash-override](https://github.com/deezertidal/stash-override) - Stash覆写 脚本 规则 override stoverride 磁贴 面板 分流 破解 解锁
 - [DERE-ad2001/Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
+- [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
 - [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis) - 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
