@@ -4,22 +4,22 @@
 
 ## 统计信息
 
-总仓库数：849个
+总仓库数：858个
 分类数：17个
 
-- 逆向破解: 63个仓库
-- 开发工具&框架: 156个仓库
+- 逆向破解: 64个仓库
+- 开发工具&框架: 160个仓库
 - 取证溯源: 11个仓库
-- 信息搜集: 79个仓库
+- 信息搜集: 80个仓库
 - LLM安全: 12个仓库
 - Web安全: 64个仓库
-- 漏洞扫描: 54个仓库
+- 漏洞扫描: 55个仓库
 - 红队&渗透测试: 178个仓库
 - AI应用: 62个仓库
 - burpsuite插件: 24个仓库
 - CTF相关: 30个仓库
-- DevOps: 38个仓库
-- 云安全: 13个仓库
+- DevOps: 39个仓库
+- 云安全: 14个仓库
 - 扫描字典: 10个仓库
 - 代码审计: 32个仓库
 - 其他: 9个仓库
@@ -60,7 +60,7 @@
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 驱动的开源知识库搭建系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力，让你快速拥有智能化的 产品文档、FAQ、博客系统。
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
@@ -147,6 +147,7 @@
 
 ## DevOps
 
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
@@ -275,7 +276,7 @@
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
-- [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) - CLI tool for filtering URLs with Bug Bounty program scope rules scraped from the internet.
+- [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) - CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules.
 - [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) - Automation for javascript recon in bug bounty. 
 - [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.  
 - [RapidDNS/Afuzz](https://github.com/RapidDNS/Afuzz) - Afuzz is an automated web path fuzzing tool for the Bug Bounty projects.
@@ -316,6 +317,7 @@
 
 - [bytedance/Elkeid](https://github.com/bytedance/Elkeid) - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
+- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [Esonhugh/k8spider](https://github.com/Esonhugh/k8spider) - Powerful+Fast+Low Privilege Kubernetes discovery tools
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 - [EvilAnne/lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
@@ -405,6 +407,7 @@
 - [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 收集的文章 https://mrwq.github.io/tools/paper/
 - [musana/fuzzuli](https://github.com/musana/fuzzuli) - fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
 - [musana/mx-takeover](https://github.com/musana/mx-takeover) - mx-takeover focuses DNS MX records and detects misconfigured MX records. 
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling
 - [Naturehi666/searchall](https://github.com/Naturehi666/searchall) - 强大的敏感信息搜索工具
 - [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
@@ -480,14 +483,15 @@
 - [anhkgg/anhkgg-tools](https://github.com/anhkgg/anhkgg-tools) - Anhkgg's Tools
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
+- [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) - ScopeSentry工具的前端UI
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [b1ank1108/tg-fwd](https://github.com/b1ank1108/tg-fwd) - Telegram 频道转发工具，支持禁止转发消息的频道
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具
+- [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
 - [beihaili/Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) - 自学入门Web3不是一件容易的事，作为一个刚刚入门Web3的新人，梳理一下最简单直观的Web3小白入门教程。整合开源社区优质资源，为大家从入门到精通web3指路。每周更新
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [bigintpro/csdn_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
@@ -515,7 +519,7 @@
 - [everythingbest/dubbo-postman](https://github.com/everythingbest/dubbo-postman) - DUBBO-POSTMAN: 一个用于通过web-ui页面访问dubbo接口的工具，可以进行dubbo接口测试，dubbo接口集成测试，dubbo接口场景测试
 - [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
 - [fifty-six/Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
-- [firerpa/lamda](https://github.com/firerpa/lamda) - 🤖  The most powerful Android RPA framework, the next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) -  The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 - [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ayatana application indicator to show various system parameters - Debian and Ubuntu
@@ -526,6 +530,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+- [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
@@ -572,6 +577,7 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [projectdiscovery/retryablehttp-go](https://github.com/projectdiscovery/retryablehttp-go) - Package retryablehttp provides a familiar HTTP client interface with automatic retries and exponential backoff
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
@@ -591,6 +597,7 @@
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [smartian1/tgtrader](https://github.com/smartian1/tgtrader) - 量化交易工具集，旨在以低代码的方式，来进行量化投研、回测和交易（微信公众号：天工量化）
 - [sqlsec/GG-Present](https://github.com/sqlsec/GG-Present) - 国光自用的 TouchBar MTMR 规则
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
@@ -625,7 +632,7 @@
 - [yaklang/yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 - [ydsuper/Typora_Free_Download](https://github.com/ydsuper/Typora_Free_Download) - Typora _v0.11.18 最新免费版安装包（后面的v1.0就开始收费了）
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 - [yuque-helper/yuque2book](https://github.com/yuque-helper/yuque2book) - export yuque repo to a book 将你的语雀文档导出的工具
 - [zema1/suo5](https://github.com/zema1/suo5) - 一款高性能 HTTP 代理隧道工具 | A high-performance http proxy tunneling tool
 - [zhuifengshen/DingtalkChatbot](https://github.com/zhuifengshen/DingtalkChatbot) - 钉钉群自定义机器人消息Python封装
@@ -652,6 +659,7 @@
 - [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
 - [Aur0ra-m/APIKiller](https://github.com/Aur0ra-m/APIKiller) - API Security DAST & Oprations
 - [Autumn-27/ScopeSentry-Scan](https://github.com/Autumn-27/ScopeSentry-Scan) - ScopeSentry工具扫描端源码
+- [b1ank1108/BugHunter-Docker](https://github.com/b1ank1108/BugHunter-Docker) - 
 - [chaitin/xpoc](https://github.com/chaitin/xpoc) - 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) - 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [Cl0udG0d/SZhe_Scan](https://github.com/Cl0udG0d/SZhe_Scan) - 碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC
@@ -810,7 +818,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
 - [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
-- [QAX-Anti-Virus/QDoctor](https://github.com/QAX-Anti-Virus/QDoctor) - The first Computer Emergency Response Tools (CERT) for young people ;) 　　　　　　　　　　　　　　　　　　　　　　年轻人的第一款应急响应工具 ；）
+- [QAX-Anti-Virus/QDoctor](https://github.com/QAX-Anti-Virus/QDoctor) - The first Computer Emergency Response (ARK) Tools for young people ;) 　　　　　　　　　　　　　　　　　　　　　　年轻人的第一款应急响应(ARK)工具 ；）
 - [Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 - [R4gd0ll/I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 - [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
@@ -935,6 +943,7 @@
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+- [saxpjexck/lsix](https://github.com/saxpjexck/lsix) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [timwhitez/BinHol](https://github.com/timwhitez/BinHol) - Binary Hollowing
 - [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
