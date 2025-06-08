@@ -4,18 +4,18 @@
 
 ## 统计信息
 
-总仓库数：858个
+总仓库数：861个
 分类数：17个
 
-- 逆向破解: 64个仓库
-- 开发工具&框架: 160个仓库
+- 逆向破解: 65个仓库
+- 开发工具&框架: 161个仓库
 - 取证溯源: 11个仓库
 - 信息搜集: 80个仓库
 - LLM安全: 12个仓库
 - Web安全: 64个仓库
 - 漏洞扫描: 55个仓库
 - 红队&渗透测试: 178个仓库
-- AI应用: 62个仓库
+- AI应用: 63个仓库
 - burpsuite插件: 24个仓库
 - CTF相关: 30个仓库
 - DevOps: 39个仓库
@@ -84,6 +84,7 @@
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [NanSsye/xxx-on-wechat](https://github.com/NanSsye/xxx-on-wechat) - dow新协议接口
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -281,7 +282,7 @@
 - [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.  
 - [RapidDNS/Afuzz](https://github.com/RapidDNS/Afuzz) - Afuzz is an automated web path fuzzing tool for the Bug Bounty projects.
 - [supr4s/WebHackingTools](https://github.com/supr4s/WebHackingTools) - Automatically install some web hacking/bug bounty tools.
-- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
+- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [topscoder/subgomain](https://github.com/topscoder/subgomain) - A high-performance tool for identifying domain takeovers with support for custom fingerprints and resolver lists.
 - [twseptian/oneliner-bugbounty](https://github.com/twseptian/oneliner-bugbounty) - oneliner commands for bug bounties
 - [utkusen/socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
@@ -608,6 +609,7 @@
 - [tjfoc/gmsm](https://github.com/tjfoc/gmsm) - GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Emby client for Linux
 - [turn1tup/JspEncounter](https://github.com/turn1tup/JspEncounter) - 
 - [twgh/xcgui](https://github.com/twgh/xcgui) - 炫彩界面库. Go GUI library. Golang bindings for XCGUI, Windows GUI library, DirectUI design idea.
 - [twtrubiks/django-celery-tutorial](https://github.com/twtrubiks/django-celery-tutorial) - Django Celery Tutorial
@@ -730,7 +732,7 @@
 - [carl1l/f403](https://github.com/carl1l/f403) - 用于渗透测试中对40x页面进行bypass并发扫描,采用go编写
 - [carlospolop/CloudPEASS](https://github.com/carlospolop/CloudPEASS) - 
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
-- [chainreactors/spray](https://github.com/chainreactors/spray) - 最好用最智能最可控的目录爆破工具 | The most powerful, user-friendly, intelligent, and precise HTTP buster.
+- [chainreactors/spray](https://github.com/chainreactors/spray) - 最好用最智能最可控的目录Fuzz工具 | The most powerful, user-friendly, intelligent, and precise HTTP Fuzzer.
 - [charonlight/NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
 - [Cherno-x/dataBrawl](https://github.com/Cherno-x/dataBrawl) - 一键生成免杀木马的 shellcode 免杀框架
 - [chriskaliX/AD-Pentest-Notes](https://github.com/chriskaliX/AD-Pentest-Notes) - 用于记录内网渗透(域渗透)学习 :-)
@@ -794,7 +796,7 @@
 - [lz520520/railgun](https://github.com/lz520520/railgun) - 
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
-- [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。
+- [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
@@ -907,6 +909,7 @@
 - [CBLabresearch/Clematis](https://github.com/CBLabresearch/Clematis) - PE to shellcode
 - [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
+- [CRONUS-Security/profile-builder](https://github.com/CRONUS-Security/profile-builder) - A demo for automatically build dwarf file for volatility2
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 - [deezertidal/stash-override](https://github.com/deezertidal/stash-override) - Stash覆写 脚本 规则 override stoverride 磁贴 面板 分流 破解 解锁
