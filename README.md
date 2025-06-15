@@ -4,25 +4,25 @@
 
 ## 统计信息
 
-总仓库数：861个
+总仓库数：864个
 分类数：17个
 
 - 逆向破解: 65个仓库
-- 开发工具&框架: 161个仓库
+- 开发工具&框架: 162个仓库
 - 取证溯源: 11个仓库
-- 信息搜集: 80个仓库
+- 信息搜集: 82个仓库
 - LLM安全: 12个仓库
-- Web安全: 64个仓库
+- Web安全: 65个仓库
 - 漏洞扫描: 55个仓库
-- 红队&渗透测试: 178个仓库
+- 红队&渗透测试: 179个仓库
 - AI应用: 63个仓库
-- burpsuite插件: 24个仓库
-- CTF相关: 30个仓库
+- burpsuite插件: 25个仓库
+- CTF相关: 29个仓库
 - DevOps: 39个仓库
 - 云安全: 14个仓库
 - 扫描字典: 10个仓库
 - 代码审计: 32个仓库
-- 其他: 9个仓库
+- 其他: 7个仓库
 - bugbounty: 14个仓库
 
 ## 目录
@@ -77,7 +77,7 @@
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
@@ -120,7 +120,6 @@
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
 - [bfengj/CTF](https://github.com/bfengj/CTF) - 关于我在CTF中的所有东西
 - [Bronya-Rayi/auto-misc-pic](https://github.com/Bronya-Rayi/auto-misc-pic) - 自动检测ctf中的图片隐写
-- [CTF-Archives/profile-builder](https://github.com/CTF-Archives/profile-builder) - A demo for automatically build dwarf file for volatility2
 - [DasSecurity-HatLab/AoiAWD](https://github.com/DasSecurity-HatLab/AoiAWD) - AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。
 - [datouo/CTF-Java-Gadget](https://github.com/datouo/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [ErodedElk/BinaryAbyss](https://github.com/ErodedElk/BinaryAbyss) - 二进制安全系列课程。以 CTF(Capture The Flag) 为导向，预计将会包括 Basic(基础知识)、 Pwn(二进制漏洞利用) 与 Reverse(逆向工程) 三部分主要内容以及 Other(其他内容)。
@@ -227,6 +226,7 @@
 - [Drun1baby/AWD-AWDP_SecFilters](https://github.com/Drun1baby/AWD-AWDP_SecFilters) - 为了准备 AWD，写了个 Filter 的集合
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [Edr4/XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
+- [emptybottle-null/Godzilla_null](https://github.com/emptybottle-null/Godzilla_null) - 哥斯拉二开，基于公开的免杀哥斯拉更改的流量特征。请求包改成json请求!
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [Fly-Playgroud/Boom](https://github.com/Fly-Playgroud/Boom) - Boom 是一款基于无头浏览器的智能 Web 弱口令（后台密码）爆破\检测工具
 - [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
@@ -293,6 +293,7 @@
 - [bit4woo/burp-api-common](https://github.com/bit4woo/burp-api-common) - common methods that used by my burp extension projects
 - [bit4woo/burp-api-drops](https://github.com/bit4woo/burp-api-drops) - burp插件开发指南
 - [c0r1/BypassPro](https://github.com/c0r1/BypassPro) - AutoBypass403-BurpSuite 插件二开重构，优化执行逻辑
+- [cloud-jie/CloudX](https://github.com/cloud-jie/CloudX) - 一个基于规则的加解密破签工具
 - [depycode/burpsuite_hack](https://github.com/depycode/burpsuite_hack) - 一款代理扫描器
 - [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
 - [ffffffff0x/burp_nu_te_gen](https://github.com/ffffffff0x/burp_nu_te_gen) - nuclei模版生成插件
@@ -381,6 +382,7 @@
 - [burpheart/koko-moni](https://github.com/burpheart/koko-moni) - 一个基于网络空间搜索引擎的攻击面管理平台，可定时进行资产信息爬取，及时发现新增资产，本项目聚合了 Fofa、Hunter、Quake、Zoomeye 和 Threatbook 的数据源，并对获取到的数据进行去重与清洗
 - [burpheart/yuque-crawl](https://github.com/burpheart/yuque-crawl) - 语雀爬虫  可以保存整个语雀知识库为Markdown格式 (包含完整目录结构和索引)
 - [Byxs20/FlowAnalyzer](https://github.com/Byxs20/FlowAnalyzer) - FlowAnalyzer是一个流量分析器，用于解析和处理tshark导出的JSON数据文件
+- [chasingboy/dirsx](https://github.com/chasingboy/dirsx) - dirsx 是一款能够自动化过滤扫描结果的目录扫描工具
 - [Ciyfly/Argo](https://github.com/Ciyfly/Argo) - Argo is an automated general crawler for automatically obtaining website URLs . Argo 是一个自动化扫描器爬虫 用于自动化获取网站的URL 基于go-rod实现了静态和动态结合的方式来实现
 - [damit5/gitdorks_go](https://github.com/damit5/gitdorks_go) - 一款在github上发现敏感信息的自动化收集工具
 - [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
@@ -396,6 +398,7 @@
 - [hanc00l/nemo_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [honmashironeko/ARL-docker](https://github.com/honmashironeko/ARL-docker) - 基于ARL v2.6.2版本源码，生成docker镜像进行快速部署，同时提供七千多条指纹
+- [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [JDArmy/RPCSCAN](https://github.com/JDArmy/RPCSCAN) - RPC远程主机信息匿名扫描工具
 - [knownsec/LSpider](https://github.com/knownsec/LSpider) - LSpider 一个为被动扫描器定制的前端爬虫
 - [komomon/Komo](https://github.com/komomon/Komo) - 🚀Komo, a comprehensive asset collection and vulnerability scanning tool. Komo 一个综合资产收集和漏洞扫描工具，集成了20余款工具，通过多种方式对子域进行获取，收集域名邮箱，进行存活探测，域名指纹识别，域名反查ip，ip端口扫描，web服务链接爬取并发送给xray，对web服务进行POC漏洞扫描，对主机进行主机漏洞扫描。
@@ -454,8 +457,6 @@
 - [b1ank1108/b1ank1108](https://github.com/b1ank1108/b1ank1108) - 
 - [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特步会员中心小程序脚本 | 乐事心动社小程序脚本 | EMS邮惠中心小程序脚本 | hotwind热风微商城小程序脚本 | 统一快乐星球小程序脚本 |老板电器服务微商城小程序
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-- [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
-- [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [yuanninesuns/AutoHS](https://github.com/yuanninesuns/AutoHS) - 炉石传说脚本（经典模式）
@@ -508,6 +509,7 @@
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
+- [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
 - [dev-coco/Deep-Clean](https://github.com/dev-coco/Deep-Clean) - Deep clean junk files. 深度清理垃圾软件。
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - To help you get started quickly and improve in the Go programming language
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
@@ -556,7 +558,7 @@
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
 - [kivvi3412/HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [LearnGolang/LearnGolang](https://github.com/LearnGolang/LearnGolang) - 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
 - [liqianglog/django-vue-admin](https://github.com/liqianglog/django-vue-admin) - A complete set of basic development platform for permission control based on RBAC model, with front-end and back-end separation, and the back-end using django+django-rest-framework, while the frontend using Vue+ElementUI+d2admin.
@@ -721,6 +723,7 @@
 - [AabyssZG/SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) - 针对SpringBoot的开源渗透框架，以及Spring相关高危漏洞利用工具
 - [airman604/jdbc-backdoor](https://github.com/airman604/jdbc-backdoor) - A fake JDBC driver that allows OS command execution.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
+- [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - ⚔️Windows11 Penetration Suite Toolkit 🔰 The First Windows Penetration Testing Environment on Mac M Chips
 - [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]
 - [b1-team/superman](https://github.com/b1-team/superman) - 🤖 Kill The Protected Process 🤖
 - [b1ank1108/bypassAV](https://github.com/b1ank1108/bypassAV) - 破产版免杀
