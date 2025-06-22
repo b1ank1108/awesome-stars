@@ -4,21 +4,21 @@
 
 ## 统计信息
 
-总仓库数：864个
+总仓库数：870个
 分类数：17个
 
 - 逆向破解: 65个仓库
-- 开发工具&框架: 162个仓库
+- 开发工具&框架: 163个仓库
 - 取证溯源: 11个仓库
 - 信息搜集: 82个仓库
 - LLM安全: 12个仓库
-- Web安全: 65个仓库
-- 漏洞扫描: 55个仓库
-- 红队&渗透测试: 179个仓库
-- AI应用: 63个仓库
-- burpsuite插件: 25个仓库
+- Web安全: 66个仓库
+- 漏洞扫描: 57个仓库
+- 红队&渗透测试: 180个仓库
+- AI应用: 64个仓库
+- burpsuite插件: 26个仓库
 - CTF相关: 29个仓库
-- DevOps: 39个仓库
+- DevOps: 38个仓库
 - 云安全: 14个仓库
 - 扫描字典: 10个仓库
 - 代码审计: 32个仓库
@@ -93,6 +93,7 @@
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [phishai/phish-protect](https://github.com/phishai/phish-protect) - Chrome extension to alert and possibly block IDN/Unicode websites and zero-day phishing websites using AI and Computer Vision.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
@@ -147,7 +148,6 @@
 
 ## DevOps
 
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
@@ -204,6 +204,7 @@
 
 ## Web安全
 
+- [0x727/ChkApi_0x727](https://github.com/0x727/ChkApi_0x727) - 辅助甲方安全人员巡检网站资产，发现并分析API安全问题
 - [4ra1n/shell-analyzer](https://github.com/4ra1n/shell-analyzer) - 通过 JAVA AGENT 查杀内存马，提供简易方便的 GUI 界面，一键反编译目标环境内存马进行分析，支持远程查杀和本地查杀（注意：仅供本地复现分析学习，请勿用于正式和生产环境）
 - [achuna33/Memoryshell-JavaALL](https://github.com/achuna33/Memoryshell-JavaALL) - 收集内存马打入方式
 - [amakerlee/javaweb-vuls](https://github.com/amakerlee/javaweb-vuls) - 
@@ -290,6 +291,7 @@
 ## burpsuite插件
 
 - [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [bit4woo/burp-api-common](https://github.com/bit4woo/burp-api-common) - common methods that used by my burp extension projects
 - [bit4woo/burp-api-drops](https://github.com/bit4woo/burp-api-drops) - burp插件开发指南
 - [c0r1/BypassPro](https://github.com/c0r1/BypassPro) - AutoBypass403-BurpSuite 插件二开重构，优化执行逻辑
@@ -509,6 +511,7 @@
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
 - [dev-coco/Deep-Clean](https://github.com/dev-coco/Deep-Clean) - Deep clean junk files. 深度清理垃圾软件。
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - To help you get started quickly and improve in the Go programming language
@@ -530,7 +533,6 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
@@ -571,6 +573,7 @@
 - [muzihuaner/all-in-one](https://github.com/muzihuaner/all-in-one) - All-in-One 搞基手册
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+- [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit) - A Better ADB GUI and More Than a ADB GUI
 - [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial) - A step-by-step tutorial for Soot (a Java static analysis framework)
 - [NotoChen/Jetbrains-Help](https://github.com/NotoChen/Jetbrains-Help) - 一个有助于提升Jetbrains服务商相关产品易用性的工具
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
@@ -669,6 +672,7 @@
 - [Cl0udG0d/SZhe_Scan](https://github.com/Cl0udG0d/SZhe_Scan) - 碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC
 - [CllmsyK/Thinkphp_Red-Tasselled-Spear](https://github.com/CllmsyK/Thinkphp_Red-Tasselled-Spear) - Thinkphp图形化检测工具，仅供学习
 - [CllmsyK/YYBaby-Spring_Scan](https://github.com/CllmsyK/YYBaby-Spring_Scan) - 一款针对Spring框架的漏洞扫描及漏洞利用图形化工具
+- [CompassSecurity/pipeleak](https://github.com/CompassSecurity/pipeleak) - Pipeleak is a tool designed to scan CI/CD logs and artifacts for secrets
 - [dionach/CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs. 
 - [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
 - [dwisiswant0/crlfuzz](https://github.com/dwisiswant0/crlfuzz) - A fast tool to scan CRLF vulnerability written in Go
@@ -684,6 +688,7 @@
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
+- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) - A rapid HTTP downgrade smuggling scanner written in Go.
 - [ohnonoyesyes/CVE-2023-25194](https://github.com/ohnonoyesyes/CVE-2023-25194) - 
 - [PentestPad/subzy](https://github.com/PentestPad/subzy) - Subdomain takeover vulnerability checker
@@ -880,6 +885,7 @@
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) - HeapDump敏感信息提取工具
 - [wolf0x/WechatShield](https://github.com/wolf0x/WechatShield) - 
 - [wyzxxz/jndi_tool](https://github.com/wyzxxz/jndi_tool) - JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell，高版本JDK场景下利用等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具
+- [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) - XBOW Validation Benchmarks
 - [xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI) - 用于Webshell木马免杀、流量加密传输，多多支持star
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
