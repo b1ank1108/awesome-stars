@@ -7,7 +7,7 @@
 总仓库数：889个
 分类数：17个
 
-- 逆向破解: 66个仓库
+- 逆向破解: 64个仓库
 - 开发工具&框架: 172个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 83个仓库
@@ -15,10 +15,10 @@
 - Web安全: 66个仓库
 - 漏洞扫描: 57个仓库
 - 红队&渗透测试: 179个仓库
-- AI应用: 69个仓库
+- AI应用: 70个仓库
 - burpsuite插件: 26个仓库
 - CTF相关: 29个仓库
-- DevOps: 39个仓库
+- DevOps: 40个仓库
 - 云安全: 14个仓库
 - 扫描字典: 10个仓库
 - 代码审计: 33个仓库
@@ -60,7 +60,7 @@
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open All-in-One Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 - [Cassianvale/bilihardcore_ai](https://github.com/Cassianvale/bilihardcore_ai) - B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
@@ -89,6 +89,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [NanSsye/xxx-on-wechat](https://github.com/NanSsye/xxx-on-wechat) - dow新协议接口
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
+- [oDaiSuno/jetbrainsai2api](https://github.com/oDaiSuno/jetbrainsai2api) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -155,6 +156,7 @@
 
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
@@ -228,7 +230,7 @@
 - [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code) - Go-sec-code is a  project for learning Go vulnerability code.
 - [cseroad/Webshell_Generate](https://github.com/cseroad/Webshell_Generate) - 用于生成各类免杀webshell
 - [cujanovic/Markdown-XSS-Payloads](https://github.com/cujanovic/Markdown-XSS-Payloads) - XSS payloads for exploiting Markdown syntax
-- [CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye) - 该工具适用于 HW 蓝队对网络流量的深入分析，帮助安全研究人员、渗透测试人员及网络管理员等专业人士识别潜在的安全威胁，尤其是针对 Web 应用的攻击（如 SQL 注入、XSS、WebShell 等）。其模块化设计使用户能够根据实际需求自由选择并定制各类功能模块。 This tool is designed to help penetration testers and network administrators identify potential security threats, especially those targeting web applications such as SQL injection, XSS, and WebShells. Its modular desig
+- [CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye) -  This tool is designed to help penetration testers and network administrators identify potential security threats, especially those targeting web applications such as SQL injection, XSS, and WebShells. Its modular desig 该工具适用于 HW 蓝队对网络流量的深入分析，帮助安全研究人员、渗透测试人员及网络管理员等专业人士识别潜在的安全威胁，尤其是针对 Web 应用的攻击（如 SQL 注入、XSS、WebShell 等）。其模块化设计使用户能够根据实际需求自由选择并定制各类功能模块
 - [doyensec/safeurl](https://github.com/doyensec/safeurl) - A Server Side Request Forgery (SSRF) protection library. Made with 🖤 by Doyensec LLC.
 - [Drun1baby/AWD-AWDP_SecFilters](https://github.com/Drun1baby/AWD-AWDP_SecFilters) - 为了准备 AWD，写了个 Filter 的集合
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
@@ -498,7 +500,6 @@
 - [anhkgg/anhkgg-tools](https://github.com/anhkgg/anhkgg-tools) - Anhkgg's Tools
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
 - [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -555,7 +556,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [goplus/llgo](https://github.com/goplus/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python
+- [goplus/llgo](https://github.com/goplus/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 - [h3h3qaq/JavaDecompiler](https://github.com/h3h3qaq/JavaDecompiler) - 一个基于 Vineflower 引擎的多线程 Java 批量反编译工具，支持快速处理大量的 class 文件和 JAR 文件。
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code. 
@@ -600,6 +601,7 @@
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [projectdiscovery/retryablehttp-go](https://github.com/projectdiscovery/retryablehttp-go) - Package retryablehttp provides a familiar HTTP client interface with automatic retries and exponential backoff
@@ -684,7 +686,7 @@
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 - [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
 - [Aur0ra-m/APIKiller](https://github.com/Aur0ra-m/APIKiller) - API Security DAST & Oprations
-- [Autumn-27/ScopeSentry-Scan](https://github.com/Autumn-27/ScopeSentry-Scan) - ScopeSentry工具扫描端源码
+- [Autumn-27/ScopeSentry-Scan](https://github.com/Autumn-27/ScopeSentry-Scan) - ScopeSentry tool scans the source code
 - [b1ank1108/BugHunter-Docker](https://github.com/b1ank1108/BugHunter-Docker) - 
 - [chaitin/xpoc](https://github.com/chaitin/xpoc) - 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) - 🎯 Fast CORS misconfiguration vulnerabilities scanner
@@ -972,9 +974,7 @@
 - [ohos-decompiler/abc-decompiler](https://github.com/ohos-decompiler/abc-decompiler) - 
 - [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
-- [saxpjexck/lsix](https://github.com/saxpjexck/lsix) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [timwhitez/BinHol](https://github.com/timwhitez/BinHol) - Binary Hollowing
 - [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
