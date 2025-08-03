@@ -4,21 +4,21 @@
 
 ## 统计信息
 
-总仓库数：895个
+总仓库数：900个
 分类数：17个
 
 - 逆向破解: 65个仓库
-- 开发工具&框架: 174个仓库
+- 开发工具&框架: 175个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 83个仓库
 - LLM安全: 12个仓库
 - Web安全: 66个仓库
 - 漏洞扫描: 57个仓库
-- 红队&渗透测试: 179个仓库
-- AI应用: 73个仓库
+- 红队&渗透测试: 181个仓库
+- AI应用: 74个仓库
 - burpsuite插件: 26个仓库
 - CTF相关: 29个仓库
-- DevOps: 40个仓库
+- DevOps: 41个仓库
 - 云安全: 14个仓库
 - 扫描字典: 10个仓库
 - 代码审计: 33个仓库
@@ -75,6 +75,7 @@
 - [DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN](https://github.com/DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN) - 
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 - [General-Analysis/mcp-guard](https://github.com/General-Analysis/mcp-guard) - MCP Guard secures your MCP client from prompt injection attacks and more.
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -160,6 +161,7 @@
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [b1ank1108/b1cron](https://github.com/b1ank1108/b1cron) - B1Cron 是一个现代化的定时任务管理系统，使用 Go 语言构建。提供简洁的 Web 界面，用于创建、管理和监控定时任务，支持实时执行监控和历史记录查看。
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
@@ -528,6 +530,7 @@
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
 - [dev-coco/Deep-Clean](https://github.com/dev-coco/Deep-Clean) - Deep clean junk files. 深度清理垃圾软件。
@@ -705,7 +708,6 @@
 - [Ed1s0nZ/PrivHunterAI](https://github.com/Ed1s0nZ/PrivHunterAI) - 一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具。其核心检测功能依托相关 AI 引擎的开放 API 构建，支持 HTTPS 协议的数据传输与交互。
 - [eeeeeeeeee-code/POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
-- [expzhizhuo/iotscan-web](https://github.com/expzhizhuo/iotscan-web) - 这是一个基于vue3+element-plus+vite4+pinia开发一个资产测绘平台+漏洞扫描的前端项目，提供多种自定义的开发，如果你的扫描器或资产测绘平台不追求UI仅仅是为了快速开发，可以参考此项目。
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [honmashironeko/sqlmap-gui](https://github.com/honmashironeko/sqlmap-gui) - 基于官版本 SQLMAP 进行人工汉化，并提供GUI界面及多个自动化脚本
@@ -713,6 +715,7 @@
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
+- [kkx600/iotscan-web](https://github.com/kkx600/iotscan-web) - 这是一个基于vue3+element-plus+vite4+pinia开发一个资产测绘平台+漏洞扫描的前端项目，提供多种自定义的开发，如果你的扫描器或资产测绘平台不追求UI仅仅是为了快速开发，可以参考此项目。
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) - A rapid HTTP downgrade smuggling scanner written in Go.
@@ -775,6 +778,7 @@
 - [Conan924/GodInfo](https://github.com/Conan924/GodInfo) - GodInfo 是一个功能全面的后渗透信息和凭据收集工具，旨在帮助安全测试人员在获得授权访问权限后，快速收集目标系统的信息和凭据。
 - [corener/JavaPassDump](https://github.com/corener/JavaPassDump) - JavaPassDump
 - [CreeperKong/zipbomb-generator](https://github.com/CreeperKong/zipbomb-generator) - A simple zipbomb generator 压缩包炸弹生成器
+- [CRONUS-Security/Volatility3-pypykatz](https://github.com/CRONUS-Security/Volatility3-pypykatz) - pypykatz plugin for Volatility3 Framework 
 - [cseroad/Exp-Tools](https://github.com/cseroad/Exp-Tools) - 一款集成高危漏洞exp的实用性工具
 - [cube0x0/YubiKey-Relay](https://github.com/cube0x0/YubiKey-Relay) - 
 - [dahezhiquan/CharcoalFire](https://github.com/dahezhiquan/CharcoalFire) - 炭火，渗透测试全流程工具
@@ -831,6 +835,7 @@
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
@@ -840,7 +845,7 @@
 - [Mr-xn/BLACKHAT_Asia2023](https://github.com/Mr-xn/BLACKHAT_Asia2023) - Black Hat Asia 2023 PDF Public
 - [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 - [Mr-xn/RedTeam_BlueTeam_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
-- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
+- [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
 - [noctiro/stormin](https://github.com/noctiro/stormin) - 通用盗号网站注册轰炸机 适用于针对QQ、Steam等平台的各类盗号网站
 - [nxenon/grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - gRPC-Web Pentesting Suite + Burp Suite Extension / Hack gRPC-Web Applications
 - [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
@@ -861,7 +866,7 @@
 - [rebeyond/JNDInjector](https://github.com/rebeyond/JNDInjector) - 一个高度可定制化的JNDI和Java反序列化利用工具
 - [rootclay/Powershell-Attack-Guide](https://github.com/rootclay/Powershell-Attack-Guide) - Powershell攻击指南----黑客后渗透之道
 - [RowTeam/SharpExchangeKing](https://github.com/RowTeam/SharpExchangeKing) - Exchange 服务器安全性的辅助测试工具
-- [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
+- [RuoJi6/CACM](https://github.com/RuoJi6/CACM) - Linux权限维持
 - [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) - xxl-job内存马
 - [rzte/pdf-exploit](https://github.com/rzte/pdf-exploit) - pdf exploit 集成
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
