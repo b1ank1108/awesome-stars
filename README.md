@@ -4,7 +4,7 @@
 
 ## 统计信息
 
-总仓库数：942个
+总仓库数：950个
 分类数：17个
 
 - 逆向破解: 68个仓库
@@ -12,10 +12,10 @@
 - 取证溯源: 12个仓库
 - 信息搜集: 85个仓库
 - LLM安全: 12个仓库
-- Web安全: 67个仓库
+- Web安全: 68个仓库
 - 漏洞扫描: 58个仓库
 - 红队&渗透测试: 185个仓库
-- AI应用: 95个仓库
+- AI应用: 102个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 30个仓库
 - DevOps: 41个仓库
@@ -53,6 +53,7 @@
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [Acmesec/theAIMythbook](https://github.com/Acmesec/theAIMythbook) - Ai迷思录（应用与安全指南）
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [ai-auto-register/Warp2Api](https://github.com/ai-auto-register/Warp2Api) - 
 - [AIDotNet/ClaudeCodeProxy](https://github.com/AIDotNet/ClaudeCodeProxy) - Claude Code Proxy 
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
@@ -65,13 +66,13 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [Cassianvale/bilihardcore_ai](https://github.com/Cassianvale/bilihardcore_ai) - B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
 - [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code AI Team Workflow Sub Agents
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- [chinrain/Api-Conversion](https://github.com/chinrain/Api-Conversion) - 
 - [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
 - [code-scan/AutoSubtitles](https://github.com/code-scan/AutoSubtitles) - 
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库 - 微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档。
@@ -81,10 +82,12 @@
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 - [FakeOAI/tokens](https://github.com/FakeOAI/tokens) - Token管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora平台的对话接口转OpenAI格式
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
+- [funnycups/Toolify](https://github.com/funnycups/Toolify) - Empower any LLM with function calling capabilities.
 - [General-Analysis/mcp-guard](https://github.com/General-Analysis/mcp-guard) - MCP Guard secures your MCP client from prompt injection attacks and more.
 - [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai 代理为 OpenAI Compatible 格式，支持免令牌、智能处理思考链、图片上传等功能
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
@@ -93,11 +96,12 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Lianues/LMArenaBridge](https://github.com/Lianues/LMArenaBridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
+- [libaxuan/ZtoApi](https://github.com/libaxuan/ZtoApi) - 佛法GLM-4.5 For Kilo CODE、Roo Code
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -114,13 +118,14 @@
 - [phith0n/v2srt](https://github.com/phith0n/v2srt) - v2srt 是一个基于人工智能的视频字幕生成工具，为任意视频生成高质量的字幕文件。
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 转换为 OpenAI 和 GEMINI API 接口
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 - [Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval) - A repository-level AI-generated code security evaluation benchmark
@@ -131,10 +136,12 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [Water008/QwenAPI](https://github.com/Water008/QwenAPI) - 
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，支持Claude Code、Gemini CLI、Codex CLI，支持Claude Console接入。集成OAuth认   证、多账号池切换、自定义API密钥、OpenAI兼容格式、代理支持和智能防封机制。
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [XUANXUQAQ/gpt-api-sync](https://github.com/XUANXUQAQ/gpt-api-sync) - 
 - [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
+- [yeuxuan/sider2api](https://github.com/yeuxuan/sider2api) - 
 - [yuanzhoulvpi2017/zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp) - 中文nlp解决方案(大模型、数据、模型、训练、推理) 
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
@@ -254,6 +261,7 @@
 - [chaitin/blazehttp](https://github.com/chaitin/blazehttp) - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [chushuai/wscan](https://github.com/chushuai/wscan) -  Wscan is a web security scanner that focuses on web security, dedicated to making web security accessible to everyone.
+- [cliouo/aistudio-build-proxy-all](https://github.com/cliouo/aistudio-build-proxy-all) - 
 - [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code) - Go-sec-code is a  project for learning Go vulnerability code.
 - [cseroad/Webshell_Generate](https://github.com/cseroad/Webshell_Generate) - 用于生成各类免杀webshell
 - [cujanovic/Markdown-XSS-Payloads](https://github.com/cujanovic/Markdown-XSS-Payloads) - XSS payloads for exploiting Markdown syntax
@@ -816,6 +824,7 @@
 - [CRONUS-Security/Volatility3-pypykatz](https://github.com/CRONUS-Security/Volatility3-pypykatz) - pypykatz plugin for Volatility3 Framework 
 - [cseroad/Exp-Tools](https://github.com/cseroad/Exp-Tools) - 一款集成高危漏洞exp的实用性工具
 - [cube0x0/YubiKey-Relay](https://github.com/cube0x0/YubiKey-Relay) - 
+- [d1rkmtrr/FilelessPELoader](https://github.com/d1rkmtrr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it 
 - [dahezhiquan/CharcoalFire](https://github.com/dahezhiquan/CharcoalFire) - 炭火，渗透测试全流程工具
 - [Dec0ne/ShadowSpray](https://github.com/Dec0ne/ShadowSpray) - A tool to spray Shadow Credentials across an entire domain in hopes of abusing long forgotten GenericWrite/GenericAll DACLs over other objects in the domain.
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
@@ -867,7 +876,6 @@
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) - Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入
 - [Lotus6/JavaGadgetGenerator](https://github.com/Lotus6/JavaGadgetGenerator) - JavaGadgetGenerator 工具，支持 ysoserial，Hessian，字节码，Expr/SSTI，Shiro，JDBC 等 Gadget 生成，封装，混淆，出网延迟探测，内存马注入等...
-- [Lotus6/ysoserial](https://github.com/Lotus6/ysoserial) - ysoserial 图形化，探测 Gadget，探测 Class，命令执行，注入哥斯拉冰蝎内存马，加载字节码等
 - [lz520520/railgun](https://github.com/lz520520/railgun) - 
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
@@ -1015,7 +1023,7 @@
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries language models to speed up reverse-engineering
 - [kjfx/AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
 - [lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver) - DBeaver数据库密码解密工具
-- [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No need to run ✅ Pyarmor 8.0 - latest 9.1.x ✅ Universal ✅ Statically convert obfuscated scripts to disassembly and (experimentally) source code.
+- [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - latest 9.1.x ✅ Universal ✅ Statically convert obfuscated scripts to disassembly and (experimentally) source code.
 - [milu001/sundeskQ](https://github.com/milu001/sundeskQ) - 向日葵密码提取、todesk密码提取，ID、临时密码，安全密码读取工具
 - [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
 - [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
