@@ -4,24 +4,24 @@
 
 ## 统计信息
 
-总仓库数：967个
+总仓库数：973个
 分类数：17个
 
-- 逆向破解: 70个仓库
-- 开发工具&框架: 183个仓库
+- 逆向破解: 71个仓库
+- 开发工具&框架: 185个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 86个仓库
 - LLM安全: 15个仓库
 - Web安全: 69个仓库
-- 漏洞扫描: 59个仓库
+- 漏洞扫描: 60个仓库
 - 红队&渗透测试: 185个仓库
 - AI应用: 109个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 30个仓库
-- DevOps: 41个仓库
+- DevOps: 42个仓库
 - 云安全: 15个仓库
 - 扫描字典: 10个仓库
-- 代码审计: 33个仓库
+- 代码审计: 34个仓库
 - 其他: 7个仓库
 - bugbounty: 15个仓库
 
@@ -153,7 +153,7 @@
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-- [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - 一个新型的日记应用，使用AI大模型来理解您的生活记录，并自动总结成日记，解放双手
+- [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ZyphrZero/bilihardcore_ai](https://github.com/ZyphrZero/bilihardcore_ai) - B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
@@ -186,7 +186,7 @@
 - [RoderickChan/pwncli](https://github.com/RoderickChan/pwncli) - Do pwn by command line
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
-- [skyf0l/RsaCracker](https://github.com/skyf0l/RsaCracker) - Powerful RSA cracker for CTFs. Supports RSA, X509, OPENSSH in PEM and DER formats.
+- [skyf0l/RsaCracker](https://github.com/skyf0l/RsaCracker) - Powerful RSA cracker for CTFs. Supports RSA, X509, OPENSSH, PKCS#12, PKCS#7, and CSR in PEM and DER formats.
 - [sourcekris/RsaCtfTool](https://github.com/sourcekris/RsaCtfTool) - RSA CTF Tool - Tool to attack RSA public keys and ciphertexts in common ways
 - [Team-intN18-SoybeanSeclab/Typhon](https://github.com/Team-intN18-SoybeanSeclab/Typhon) - pyjail (python jail) 绕过 一把梭 CTF 工具
 - [yulate/CtfAgent](https://github.com/yulate/CtfAgent) - ctf awd比赛快速hook java题，提供一键流量转发，无痛修复
@@ -195,6 +195,7 @@
 ## DevOps
 
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人
+- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) - docker-compose for testing any-sync
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [b1ank1108/b1cron](https://github.com/b1ank1108/b1cron) - B1Cron 是一个现代化的定时任务管理系统，使用 Go 语言构建。提供简洁的 Web 界面，用于创建、管理和监控定时任务，支持实时执行监控和历史记录查看。
@@ -411,6 +412,7 @@
 - [KimJun1010/inspector](https://github.com/KimJun1010/inspector) - IDEA代码审计辅助插件（深信服深蓝实验室天威战队强力驱动）
 - [l3yx/Choccy](https://github.com/l3yx/Choccy) - GitHub项目监控 && CodeQL自动扫描   (GitHub project monitoring && CodeQL automatic analysis)
 - [lcark/Tai-e-demo](https://github.com/lcark/Tai-e-demo) - 用来将Tai-e改造为开箱即用的静态代码安全分析框架的一些demo
+- [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - XCodeReviewer 是一款基于大语言模型（LLM）的智能审计工具，支持 GPT、Claude、Gemini、通义千问、DeepSeek、Ollama 等十余主流 AI 模型。它能够自动检测代码中的安全漏洞、性能问题和代码异味，显著提升代码质量与安全性。XCodeReviewer 支持 GitHub/GitLab 集成，可无缝嵌入 CI/CD 流程，实现自动化代码审查与持续安全保障，同时兼容十多种编程语言，满足多样化项目需求。
 - [Maskhe/javasec](https://github.com/Maskhe/javasec) - 自己学习java安全的一些总结，主要是安全审计相关
 - [novysodope/javaeasyscan](https://github.com/novysodope/javaeasyscan) - javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手
 - [one-iast/practice](https://github.com/one-iast/practice) - 手把手教你写IAST系列
@@ -576,6 +578,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [chenyufeng1991/BinaryTree](https://github.com/chenyufeng1991/BinaryTree) - C语言实现二叉树的基本操作
+- [cinar/indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
@@ -646,6 +649,7 @@
 - [muzihuaner/all-in-one](https://github.com/muzihuaner/all-in-one) - All-in-One 搞基手册
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。
 - [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit) - A Better ADB GUI and More Than a ADB GUI
 - [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial) - A step-by-step tutorial for Soot (a Java static analysis framework)
 - [NotoChen/Jetbrains-Help](https://github.com/NotoChen/Jetbrains-Help) - 一个有助于提升Jetbrains服务商相关产品易用性的工具
@@ -773,6 +777,7 @@
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
+- [killmonday/fscanx](https://github.com/killmonday/fscanx) - 让fscan再次伟大
 - [kkx600/iotscan-web](https://github.com/kkx600/iotscan-web) - 这是一个基于vue3+element-plus+vite4+pinia开发一个资产测绘平台+漏洞扫描的前端项目，提供多种自定义的开发，如果你的扫描器或资产测绘平台不追求UI仅仅是为了快速开发，可以参考此项目。
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions
@@ -982,7 +987,7 @@
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
-- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀对抗
+- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion / 免杀对抗
 - [yinsel/BypassAV](https://github.com/yinsel/BypassAV) - 一款基于PE Patch技术的后渗透免杀工具，主要支持x64
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
 - [yuyan-sec/druid_sessions](https://github.com/yuyan-sec/druid_sessions) - 获取 alibaba druid 一些 sessions , sql , urls
@@ -995,6 +1000,7 @@
 ## 逆向破解
 
 - [0xjiayu/go_parser](https://github.com/0xjiayu/go_parser) - Yet Another Golang binary parser for IDAPro
+- [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - 反调试破除者--AntiDebug_Breaker
 - [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [AlphabugX/godzilla_decode](https://github.com/AlphabugX/godzilla_decode) - Godzilla java Decode,哥斯拉jsp(内存马)流量解密
