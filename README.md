@@ -4,10 +4,10 @@
 
 ## 统计信息
 
-总仓库数：994个
+总仓库数：997个
 分类数：17个
 
-- 逆向破解: 75个仓库
+- 逆向破解: 76个仓库
 - 开发工具&框架: 191个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 86个仓库
@@ -15,7 +15,7 @@
 - Web安全: 71个仓库
 - 漏洞扫描: 60个仓库
 - 红队&渗透测试: 186个仓库
-- AI应用: 116个仓库
+- AI应用: 118个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 30个仓库
 - DevOps: 43个仓库
@@ -69,6 +69,7 @@
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [caidaoli/codebuddy2cc](https://github.com/caidaoli/codebuddy2cc) - 
 - [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) - 
+- [CassiopeiaCode/q2api](https://github.com/CassiopeiaCode/q2api) - Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。
 - [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code AI Team Workflow Sub Agents
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
@@ -101,8 +102,8 @@
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
-- [lzA6/FreeAIchat-2api](https://github.com/lzA6/FreeAIchat-2api) - 模拟浏览器请求 (非无头)、需自备 Cookie、服务端会话管理、高级请求伪装绕过机器人检测、原生 SSE 流转标准 OpenAI API、Docker 一键部署
-- [lzA6/notion-2api](https://github.com/lzA6/notion-2api) - 基于 Cookie/Token 认证、自动绕过 Cloudflare (CF) 人机验证、高级反检测伪装、高速流式 API 转换、Docker 一键部署
+- [lza6/FreeAIchat-2api](https://github.com/lza6/FreeAIchat-2api) - 模拟浏览器请求 (非无头)、需自备 Cookie、服务端会话管理、高级请求伪装绕过机器人检测、原生 SSE 流转标准 OpenAI API、Docker 一键部署
+- [lza6/notion-2api](https://github.com/lza6/notion-2api) - 基于 Cookie/Token 认证、自动绕过 Cloudflare (CF) 人机验证、高级反检测伪装、高速流式 API 转换、Docker 一键部署
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -129,7 +130,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
@@ -160,6 +161,7 @@
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+- [ZhangQL2824/auto-drawio](https://github.com/ZhangQL2824/auto-drawio) - AI 驱动的流程图生成
 - [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -629,7 +631,7 @@
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [goplus/llgo](https://github.com/goplus/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
-- [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - 
+- [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
 - [h3h3qaq/JavaDecompiler](https://github.com/h3h3qaq/JavaDecompiler) - 一个基于 Vineflower 引擎的多线程 Java 批量反编译工具，支持快速处理大量的 class 文件和 JAR 文件。
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code. 
@@ -868,7 +870,7 @@
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) - A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) - A native root checker for Android devices and sample app
 - [Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) - Redis 4.x/5.x RCE
-- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - 🚀 AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.
+- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.
 - [eeeeeeeeee-code/e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config) - 综合后渗透方面的杂烩
 - [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
 - [ekkoo-z/Z-Godzilla_ekp](https://github.com/ekkoo-z/Z-Godzilla_ekp) - 哥斯拉webshell管理工具二次开发规避流量检测设备
@@ -1004,7 +1006,7 @@
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
-- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion / 免杀对抗
+- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV / EDR / XDR Evasion
 - [yinsel/BypassAV](https://github.com/yinsel/BypassAV) - 一款基于PE Patch技术的后渗透免杀工具，主要支持x64
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
 - [yuyan-sec/druid_sessions](https://github.com/yuyan-sec/druid_sessions) - 获取 alibaba druid 一些 sessions , sql , urls
@@ -1017,7 +1019,7 @@
 ## 逆向破解
 
 - [0xjiayu/go_parser](https://github.com/0xjiayu/go_parser) - Yet Another Golang binary parser for IDAPro
-- [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - 反调试破除者--AntiDebug_Breaker
+- [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
 - [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [AlphabugX/godzilla_decode](https://github.com/AlphabugX/godzilla_decode) - Godzilla java Decode,哥斯拉jsp(内存马)流量解密
@@ -1046,6 +1048,7 @@
 - [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis) - 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [ErodedElk/Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8) - 零基础入门V8引擎漏洞挖掘
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 - [ezshine/wxapkg-convertor](https://github.com/ezshine/wxapkg-convertor) - 一个反编译微信小程序的工具，仓库也收集各种微信小程序/小游戏.wxapkg文件
@@ -1065,7 +1068,7 @@
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries language models to speed up reverse-engineering
 - [kjfx/AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
 - [lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver) - DBeaver数据库密码解密工具
-- [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.1.9 ✅ Universal ✅ Statically convert obfuscated scripts to disassembly and (experimentally) source code.
+- [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.1.9 ✅ Universal ✅ Statically convert obfuscated Python scripts to disassembly and (experimentally) source code.
 - [milu001/sundeskQ](https://github.com/milu001/sundeskQ) - 向日葵密码提取、todesk密码提取，ID、临时密码，安全密码读取工具
 - [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
 - [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
