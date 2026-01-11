@@ -4,17 +4,17 @@
 
 ## 统计信息
 
-总仓库数：1021个
+总仓库数：1027个
 分类数：18个
 
 - 逆向破解: 77个仓库
-- 开发工具&框架: 195个仓库
+- 开发工具&框架: 197个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 86个仓库
 - LLM安全: 15个仓库
 - Web安全: 74个仓库
 - 漏洞扫描: 59个仓库
-- 红队&渗透测试: 184个仓库
+- 红队&渗透测试: 185个仓库
 - AI应用: 129个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 31个仓库
@@ -24,7 +24,7 @@
 - 代码审计: 34个仓库
 - 其他: 7个仓库
 - bugbounty: 15个仓库
-- 未分类: 3个仓库
+- 未分类: 6个仓库
 
 ## 目录
 
@@ -60,7 +60,7 @@
 - [AIDotNet/ClaudeCodeProxy](https://github.com/AIDotNet/ClaudeCodeProxy) - Claude Code Proxy 
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -80,7 +80,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [chinrain/Api-Conversion](https://github.com/chinrain/Api-Conversion) - 
 - [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
 - [code-scan/AutoSubtitles](https://github.com/code-scan/AutoSubtitles) - 
@@ -136,17 +136,17 @@
 - [phith0n/v2srt](https://github.com/phith0n/v2srt) - v2srt 是一个基于人工智能的视频字幕生成工具，为任意视频生成高质量的字幕文件。
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats.
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
-- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 antigravity 转换为 OpenAI 和 GEMINI API 接口
+- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [t59688/arboris-novel](https://github.com/t59688/arboris-novel) - AI 写作伙伴，点亮你的创作灵感
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
@@ -573,7 +573,7 @@
 - [keydet89/RegRipper4.0](https://github.com/keydet89/RegRipper4.0) - RegRipper4.0
 - [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) - Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具
 - [Ppsoft1991/ChatViewTools](https://github.com/Ppsoft1991/ChatViewTools) - 红队的微信聊天记录取证工具
-- [SpenserCai/GoWxDump](https://github.com/SpenserCai/GoWxDump) - SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)
+- [SpenserCai/GoWxDump](https://github.com/SpenserCai/GoWxDump) - 删库
 - [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
 - [Tokeii0/VolatilityPro](https://github.com/Tokeii0/VolatilityPro) - 一款用于自动化处理内存取证的Python脚本，并提供GUI界面
 - [WangYihang/UsbKeyboardDataHacker](https://github.com/WangYihang/UsbKeyboardDataHacker) - USB键盘流量包取证工具 , 用于恢复用户的击键信息
@@ -645,6 +645,7 @@
 - [frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan) - Yet another C# Wrapper for cqhttp
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -667,6 +668,7 @@
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [IndustriousSnail/javassist-learn](https://github.com/IndustriousSnail/javassist-learn) - Javassist官方文档中文翻译
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
+- [james-6-23/new_api_tools](https://github.com/james-6-23/new_api_tools) - 
 - [jar-analyzer/jar-analyzer-v1-gui](https://github.com/jar-analyzer/jar-analyzer-v1-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
 - [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 SpringBoot 和 war 包，配置简单，文档教程齐全，容易上手
 - [JDArmy/TextWatermark](https://github.com/JDArmy/TextWatermark) - Watermark For Text
@@ -791,9 +793,12 @@
 
 ## 未分类
 
-- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
-- [james-6-23/new_api_tools](https://github.com/james-6-23/new_api_tools) - 
-- [peass-ng/CloudPEASS](https://github.com/peass-ng/CloudPEASS) - 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [appautomaton/agent-designer](https://github.com/appautomaton/agent-designer) - Purpose Design and maintain Codex/Claude-style SKILLs, plus supporting docs and MCP tool catalog.
+- [cjyyx/AI_Gen_Novel](https://github.com/cjyyx/AI_Gen_Novel) - 基于大语言模型(LLM)和多智能体(Multi-Agent)，探究AI写小说能力的边界
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [renocrypt/latex-arxiv-SKILL](https://github.com/renocrypt/latex-arxiv-SKILL) - A .codex SKILL for issue-driven ML/AI arXiv review papers: scaffold LaTeX + verify BibTeX citations end-to-end.
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 ## 漏洞扫描
 
@@ -962,6 +967,7 @@
 - [nxenon/grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - gRPC-Web Pentesting Suite + Burp Suite Extension / Hack gRPC-Web Applications (Official BApp Extension Available)
 - [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
 - [p0dalirius/pyFindUncommonShares](https://github.com/p0dalirius/pyFindUncommonShares) - FindUncommonShares is a Python script allowing to quickly find uncommon shares in vast Windows Domains, and filter by READ or WRITE accesses.
+- [peass-ng/CloudPEASS](https://github.com/peass-ng/CloudPEASS) - 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [pen4uin/java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持自定义的 Java 回显载荷生成工具｜A customizable Java echo payload generation tool.
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
