@@ -4,27 +4,27 @@
 
 ## 统计信息
 
-总仓库数：1065个
+总仓库数：1062个
 分类数：18个
 
-- 逆向破解: 77个仓库
-- 开发工具&框架: 202个仓库
+- 逆向破解: 76个仓库
+- 开发工具&框架: 205个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 85个仓库
 - LLM安全: 15个仓库
 - Web安全: 74个仓库
-- 漏洞扫描: 59个仓库
+- 漏洞扫描: 58个仓库
 - 红队&渗透测试: 185个仓库
-- AI应用: 139个仓库
+- AI应用: 141个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 32个仓库
 - DevOps: 46个仓库
 - 云安全: 16个仓库
 - 扫描字典: 10个仓库
-- 代码审计: 35个仓库
-- 其他: 6个仓库
+- 代码审计: 34个仓库
 - bugbounty: 15个仓库
-- 未分类: 29个仓库
+- 其他: 5个仓库
+- 未分类: 25个仓库
 
 ## 目录
 
@@ -99,6 +99,7 @@
 - [gaoziman/claude-context-manager](https://github.com/gaoziman/claude-context-manager) - claude-context-manager for claude code
 - [General-Analysis/mcp-guard](https://github.com/General-Analysis/mcp-guard) - MCP Guard secures your MCP client from prompt injection attacks and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [GuDaStudio/commands](https://github.com/GuDaStudio/commands) - 
 - [GuDaStudio/geminimcp](https://github.com/GuDaStudio/geminimcp) - Gemini-MCP is an MCP server that encapsulates Google's Gemini CLI tool into a standard MCP protocol interface, enabling Claude Code to invoke Gemini for AI-assisted programming tasks.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
@@ -107,7 +108,7 @@
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [hulisang/ZtoApi](https://github.com/hulisang/ZtoApi) - 佛法GLM-4.6 For Kilo CODE、Roo Code
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [kao0312/zai-proxy](https://github.com/kao0312/zai-proxy) - 让 Z.ai Chat 物尽其用
@@ -166,6 +167,7 @@
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 本项目基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [Water008/QwenAPI](https://github.com/Water008/QwenAPI) - 
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -469,7 +471,6 @@
 - [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth) - java-web 自动化鉴权绕过
 - [waderwu/extractor-java](https://github.com/waderwu/extractor-java) - CodeQL extractor for java, which don't need to compile java source
 - [webraybtl/CodeQLpy](https://github.com/webraybtl/CodeQLpy) - CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。
-- [winezer0/X-SAST-PUBLIC](https://github.com/winezer0/X-SAST-PUBLIC) - X-SAST 替代Seay的多语言、轻量、快速、代码审计工具
 - [Xsw6/JavaSec](https://github.com/Xsw6/JavaSec) - 
 - [Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
 - [YulinSec/ChatGPTScan-SAST](https://github.com/YulinSec/ChatGPTScan-SAST) - 一个基于 ChatGPT 的开源代码审计平台。
@@ -567,7 +568,6 @@
 ## 其他
 
 - [b1ank1108/b1ank1108](https://github.com/b1ank1108/b1ank1108) - 
-- [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特步会员中心小程序脚本 | 乐事心动社小程序脚本 | EMS邮惠中心小程序脚本 | hotwind热风微商城小程序脚本 | 统一快乐星球小程序脚本 |老板电器服务微商城小程序
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [yuanninesuns/AutoHS](https://github.com/yuanninesuns/AutoHS) - 炉石传说脚本（经典模式）
@@ -598,6 +598,7 @@
 - [allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry) - Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案
 - [AlphabugX/Jawd](https://github.com/AlphabugX/Jawd) - Jawd——Jar文件编辑并重新打包导出神器。一款能够让你在AWD抢占先机，应急响应第一时间修复bug的神器
 - [anhkgg/anhkgg-tools](https://github.com/anhkgg/anhkgg-tools) - Anhkgg's Tools
+- [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [appautomaton/agent-designer](https://github.com/appautomaton/agent-designer) - Purpose Design and maintain Codex/Claude-style SKILLs, plus supporting docs and MCP tool catalog.
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
@@ -625,6 +626,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [chenyufeng1991/BinaryTree](https://github.com/chenyufeng1991/BinaryTree) - C语言实现二叉树的基本操作
+- [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特步会员中心小程序脚本 | 乐事心动社小程序脚本 | EMS邮惠中心小程序脚本 | hotwind热风微商城小程序脚本 | 统一快乐星球小程序脚本 |老板电器服务微商城小程序
 - [cinar/indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 - [Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index) - 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill 
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
@@ -657,7 +659,7 @@
 - [frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan) - Yet another C# Wrapper for cqhttp
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
+- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -700,6 +702,7 @@
 - [LubyRuffy/ProxyCraft](https://github.com/LubyRuffy/ProxyCraft) - ProxyCraft 是一款轻量级、高性能的命令行代理工具，本身为 HTTP 代理协议，支持 HTTPS/HTTP2/SSE 特性，用于进行本地抓包分析。它专为开发人员、安全测试人员和网络管理员设计，提供便捷的流量观察、分析和调试能力。
 - [masterqiu01/cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator) - Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行。
 - [MichaelXF/js-confuser](https://github.com/MichaelXF/js-confuser) - JS-Confuser is a JavaScript obfuscation tool to make your programs *impossible* to read.
+- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit
 - [momosecurity/rhizobia_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
 - [muzihuaner/all-in-one](https://github.com/muzihuaner/all-in-one) - All-in-One 搞基手册
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -811,18 +814,15 @@
 - [1193776794/launch](https://github.com/1193776794/launch) - 检测工具
 - [adityatelange/frida-ui](https://github.com/adityatelange/frida-ui) - Interact with Frida devices, processes, and scripts directly from your browser.
 - [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
-- [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) - 
 - [baihengaead/wlan-sec-test-tool](https://github.com/baihengaead/wlan-sec-test-tool) - 无线网络安全测试工具，支持测试WPA/WPA2/WPA3、多开并发、自动化测试连接，需自定义密码本
 - [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap) - Cursor gRPC 通信流量分析工具
 - [Dianel555/DSkills](https://github.com/Dianel555/DSkills) - CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).
 - [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
-- [GuDaStudio/commands](https://github.com/GuDaStudio/commands) - 
 - [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) - Integrate Grok's powerful real-time search capabilities into Claude via the MCP protocol!
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 - [hsingjui/ContextWeaver](https://github.com/hsingjui/ContextWeaver) - ContextWeaver 是一个基于 MCP 协议、利用 Tree-sitter 和向量搜索为大语言模型提供本地代码库智能上下文编织与检索的工具。
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
-- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor
 - [MoonWeSif/DuckMail](https://github.com/MoonWeSif/DuckMail) - 优雅易用的临时邮箱客户端，支持 API 无鉴权调用与接入私有域名，一键获取专属的临时邮箱。
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -832,7 +832,6 @@
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - wooyun-legacy skill for claude code 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [winezer0/XSAST-Python](https://github.com/winezer0/XSAST-Python) - X-SAST 替代Seay的多语言、轻量、快速、代码审计工具 (Python版本)
 - [xixianloux/google-account-automanager](https://github.com/xixianloux/google-account-automanager) - 
@@ -865,7 +864,6 @@
 - [hack007x/dxscango](https://github.com/hack007x/dxscango) - 全自动化xss扫描框架
 - [honmashironeko/sqlmap-gui](https://github.com/honmashironeko/sqlmap-gui) - 基于官版本 SQLMAP 进行人工汉化，并提供GUI界面及多个自动化脚本
 - [iamHuFei/HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
 - [killmonday/fscanx](https://github.com/killmonday/fscanx) - 让fscan再次伟大
@@ -1099,7 +1097,6 @@
 - [AshenOneYe/FridaAntiRootDetection](https://github.com/AshenOneYe/FridaAntiRootDetection) - A frida script for bypass common root detection,the collection of detection methods is still improving！
 - [auto-yui-patch/fiddler-everywhere-patch-automated](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated) - Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically!
 - [axcheron/pyvmx-cracker](https://github.com/axcheron/pyvmx-cracker) - Simple tool to crack VMware VMX encryption passwords
-- [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 - [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 - [bontchev/pcodedmp](https://github.com/bontchev/pcodedmp) - A VBA p-code disassembler
 - [boy-hack/go-strip](https://github.com/boy-hack/go-strip) - 清除Go编译时自带的信息
