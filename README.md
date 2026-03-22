@@ -4,18 +4,18 @@
 
 ## 统计信息
 
-总仓库数：1083个
+总仓库数：1095个
 分类数：18个
 
 - 逆向破解: 77个仓库
-- 开发工具&框架: 208个仓库
+- 开发工具&框架: 210个仓库
 - 取证溯源: 12个仓库
-- 信息搜集: 85个仓库
+- 信息搜集: 86个仓库
 - LLM安全: 15个仓库
 - Web安全: 75个仓库
 - 漏洞扫描: 59个仓库
 - 红队&渗透测试: 185个仓库
-- AI应用: 147个仓库
+- AI应用: 149个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 32个仓库
 - DevOps: 46个仓库
@@ -24,7 +24,7 @@
 - 代码审计: 34个仓库
 - bugbounty: 15个仓库
 - 其他: 5个仓库
-- 未分类: 34个仓库
+- 未分类: 41个仓库
 
 ## 目录
 
@@ -102,8 +102,9 @@
 - [GuDaStudio/commands](https://github.com/GuDaStudio/commands) - 
 - [GuDaStudio/geminimcp](https://github.com/GuDaStudio/geminimcp) - Gemini-MCP is an MCP server that encapsulates Google's Gemini CLI tool into a standard MCP protocol interface, enabling Claude Code to invoke Gemini for AI-assisted programming tasks.
 - [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) - Integrate Grok's powerful real-time search capabilities into Claude via the MCP protocol!
+- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai Chat 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi z2api ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -124,7 +125,7 @@
 - [lza6/notion-2api](https://github.com/lza6/notion-2api) - 基于 Cookie/Token 认证、自动绕过 Cloudflare (CF) 人机验证、高级反检测伪装、高速流式 API 转换、Docker 一键部署
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mucsbr/amq2api](https://github.com/mucsbr/amq2api) - 
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -173,6 +174,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 别养小龙虾了，来试试养鱼吧！本项目基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+- [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [Water008/QwenAPI](https://github.com/Water008/QwenAPI) - 
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -193,7 +195,7 @@
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [ZhangQL2824/auto-drawio](https://github.com/ZhangQL2824/auto-drawio) - AI 驱动的流程图生成
 - [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ZyphrZero/bilihardcore_ai](https://github.com/ZyphrZero/bilihardcore_ai) - B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
@@ -487,6 +489,7 @@
 ## 信息搜集
 
 - [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
+- [1193776794/launch](https://github.com/1193776794/launch) - 检测工具
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [Adminisme/SharpRDPLog](https://github.com/Adminisme/SharpRDPLog) - Windows rdp相关的登录记录导出工具，可用于后渗透中Windows服务器的信息收集阶段。输出内容包括：本地rdp端口、mstsc缓存、cmdkey缓存、登录成功、失败日志事件。
 - [al-sultani/url-tracker](https://github.com/al-sultani/url-tracker) - Change monitoring app that checks the content of web pages in different periods.
@@ -656,6 +659,7 @@
 - [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [everythingbest/dubbo-postman](https://github.com/everythingbest/dubbo-postman) - DUBBO-POSTMAN: 一个用于通过web-ui页面访问dubbo接口的工具，可以进行dubbo接口测试，dubbo接口集成测试，dubbo接口场景测试
+- [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置
 - [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
 - [fifty-six/Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
 - [firerpa/lamda](https://github.com/firerpa/lamda) -  The most powerful Android RPA agent framework, next generation of mobile automation robots.
@@ -684,6 +688,7 @@
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 - [hitsz-ids/auto-regex](https://github.com/hitsz-ids/auto-regex) - automatic regex generation tool
+- [hsingjui/ContextWeaver](https://github.com/hsingjui/ContextWeaver) - ContextWeaver 是一个基于 MCP 协议、利用 Tree-sitter 和向量搜索为大语言模型提供本地代码库智能上下文编织与检索的工具。
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension 
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
@@ -821,23 +826,28 @@
 
 ## 未分类
 
-- [1193776794/launch](https://github.com/1193776794/launch) - 检测工具
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) - Codex CLI 多智能体并行调度配置模板——启用原生并行能力，实现 Agent 自主协调与高效任务分发。Multi-agent parallel scheduling templates for Codex CLI — unlock native parallelism with autonomous agent   coordination and efficient task dispatch.
 - [baihengaead/wlan-sec-test-tool](https://github.com/baihengaead/wlan-sec-test-tool) - 无线网络安全测试工具，支持测试WPA/WPA2/WPA3、多开并发、自动化测试连接，需自定义密码本
 - [blessonism/openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills) - OpenClaw skills for deep search — multi-source search, content extraction, and structured research reports.
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 - [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) - A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw.
 - [Esonhugh/pydoll-cf-waf-bypasser-skills](https://github.com/Esonhugh/pydoll-cf-waf-bypasser-skills) - a antibot waf bypasser based on pydoll framework good at Cloudflare, 基于 pydoll 编写 cf 或其他家验证 waf 绕过人机检查的 skills
-- [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置
 - [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) - 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [golutra/golutra](https://github.com/golutra/golutra) - 
-- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
-- [hsingjui/ContextWeaver](https://github.com/hsingjui/ContextWeaver) - ContextWeaver 是一个基于 MCP 协议、利用 Tree-sitter 和向量搜索为大语言模型提供本地代码库智能上下文编织与检索的工具。
+- [hengfengliya/imgood](https://github.com/hengfengliya/imgood) - 
+- [heromantf/acemcp-relay](https://github.com/heromantf/acemcp-relay) - 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+- [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [LongWeihan/taskcaptain](https://github.com/LongWeihan/taskcaptain) - The AI captain for autonomous task delivery
 - [lulistart/nexos2api](https://github.com/lulistart/nexos2api) - 将 nexos.ai 的 API 封装为标准的 OpenAI 兼容接口。
+- [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - 
 - [p1g3/dingwave](https://github.com/p1g3/dingwave) - 钉钉数据库解密工具，支持 WEB UI 展示 | DingTalk Database Decryption Tool with Web UI Visualization.
 - [Passerby1011/cc-proxy](https://github.com/Passerby1011/cc-proxy) - 
+- [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [RuoJi6/java-decompile-mcp](https://github.com/RuoJi6/java-decompile-mcp) - 
 - [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a cognitive-driven AI hacker. It is a fully autonomous AI penetration testing agent powered by DeepSeek V3.2. Using dual-graph reasoning, LuaN1ao achieves a success rate of over 90% on the XBOW Benchmark, with a median exploit cost of just $0.09.
@@ -846,15 +856,17 @@
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 - [streetartist/zenproxy](https://github.com/streetartist/zenproxy) - 
+- [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
 - [tophant-ai/Daybreak](https://github.com/tophant-ai/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
 - [uluckyXH/OpenMOSS](https://github.com/uluckyXH/OpenMOSS) - A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.
-- [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [wanikua/boluobobo-ai-court-tutorial](https://github.com/wanikua/boluobobo-ai-court-tutorial) - AI 朝廷搭建完整教程 - 从零基础到进阶
+- [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
 - [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) - 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
 - [winezer0/XSAST-Python](https://github.com/winezer0/XSAST-Python) - X-SAST 替代Seay的多语言、轻量、快速、代码审计工具 (Python版本)
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
 
 ## 漏洞扫描
 
@@ -896,7 +908,7 @@
 - [RoomaSec/RmTools](https://github.com/RoomaSec/RmTools) - 蓝队应急工具
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack. 
 - [ryandamour/ssrfuzz](https://github.com/ryandamour/ssrfuzz) - SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities
-- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 - [smallcham/sec-admin](https://github.com/smallcham/sec-admin) - 分布式资产安全扫描核心管理系统(弱口令扫描，漏洞扫描)
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
 - [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise distributed network asset scanning platform with port scanning, subdomain enumeration, fingerprinting, and vulnerability detection. Built with Go-Zero + Vue3.(端口扫描/子域名枚举/指纹识别/漏洞检测)
