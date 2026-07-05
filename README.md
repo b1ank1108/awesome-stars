@@ -4,11 +4,11 @@
 
 ## 统计信息
 
-总仓库数：1197个
+总仓库数：1199个
 分类数：18个
 
 - 逆向破解: 79个仓库
-- 开发工具&框架: 219个仓库
+- 开发工具&框架: 218个仓库
 - 取证溯源: 12个仓库
 - 信息搜集: 87个仓库
 - LLM安全: 15个仓库
@@ -24,7 +24,7 @@
 - 代码审计: 35个仓库
 - bugbounty: 16个仓库
 - 其他: 5个仓库
-- 未分类: 115个仓库
+- 未分类: 118个仓库
 
 ## 目录
 
@@ -761,7 +761,6 @@
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP.
-- [renocrypt/latex-arxiv-SKILL](https://github.com/renocrypt/latex-arxiv-SKILL) - A .codex SKILL for issue-driven ML/AI arXiv review papers: scaffold LaTeX + verify BibTeX citations end-to-end.
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -852,7 +851,7 @@
 - [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX citations.
 - [Arron196/CLIProxyAPI](https://github.com/Arron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 - [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) - Headless IDA Pro MCP Server
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
@@ -860,11 +859,11 @@
 - [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) - 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.
 - [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 - [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
-- [chen0416ccc-cpu/codex-windows-fast-patch-skill](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) - 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，fast mode等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [chen0416ccc-cpu/codex-windows-fast-patch-skill](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) - 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.
 - [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 - [cnitlrt/AutoTeam](https://github.com/cnitlrt/AutoTeam) - ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、邮箱注册、CPA/Sub2API 认证同步
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 
+- [dama-cyber/Casting-Workflow](https://github.com/dama-cyber/Casting-Workflow) - 
 - [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 - [davaded/frontend-art-direction](https://github.com/davaded/frontend-art-direction) - 
 - [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering) - Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
@@ -929,6 +928,7 @@
 - [oulkurt/fast-context-skill](https://github.com/oulkurt/fast-context-skill) - Codex Skill fork of fast-context-mcp that calls Windsurf Devstral without an MCP server
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [qicfan/qmediasync](https://github.com/qicfan/qmediasync) - 基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - A KernelSU based root solution for Android
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -942,9 +942,10 @@
 - [systemoutprintlnhelloworld/plus-pp-helper](https://github.com/systemoutprintlnhelloworld/plus-pp-helper) - 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
 - [taisuii/rusda](https://github.com/taisuii/rusda) - 对frida 的patch，产物可直接下载Release
-- [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 谷歌邮箱注册
+- [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 
 - [timwhitez/C0de1ndex](https://github.com/timwhitez/C0de1ndex) - AI 驱动的代码库索引工具
 - [voidcraft-dev/memory-forge-rs](https://github.com/voidcraft-dev/memory-forge-rs) - Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI & pi &Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
+- [walkingddd/TgtoDrive](https://github.com/walkingddd/TgtoDrive) - 一条龙网盘媒体自动化平台：从找资源、自动转存、智能整理、挂载 STRM、到 Emby 302 直链播放，全流程打通；重点强化 115 / 123 / 光鸭云盘整理与转存、115 / 123 /光鸭云盘 STRM 全量与增量生成、以及 Emby 反向代理 302 播放能力。
 - [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [wenbochang888/github-trending-spider](https://github.com/wenbochang888/github-trending-spider) - 每日AI前沿信息。开源趋势、社区热议、AI 动态
@@ -957,6 +958,7 @@
 - [Yrzhe/pagefly](https://github.com/Yrzhe/pagefly) - Personal Knowledge OS — Capture → Distill → Compile → Serve. Self-hosted knowledge data platform with AI agents, Telegram bot, and REST API.
 - [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
 - [Yvesssn/DetectDee](https://github.com/Yvesssn/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+- [zhangsalute1/fanqietrend-main](https://github.com/zhangsalute1/fanqietrend-main) - 
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
 - [ZRainbow1275/AutoTeam-F](https://github.com/ZRainbow1275/AutoTeam-F) - 更好的Autoteam，实现前端到后端全方位的加强，同时可以批量获取免费号
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
