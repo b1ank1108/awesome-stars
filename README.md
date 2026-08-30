@@ -4,27 +4,26 @@
 
 ## 统计信息
 
-总仓库数：1256个
-分类数：18个
+总仓库数：1261个
+分类数：17个
 
-- 逆向破解: 79个仓库
-- 开发工具&框架: 217个仓库
+- 逆向破解: 101个仓库
+- 开发工具&框架: 273个仓库
 - 取证溯源: 12个仓库
-- 信息搜集: 86个仓库
-- LLM安全: 14个仓库
-- Web安全: 74个仓库
+- 信息搜集: 99个仓库
+- LLM安全: 17个仓库
+- Web安全: 80个仓库
 - 漏洞扫描: 60个仓库
-- 红队&渗透测试: 191个仓库
-- AI应用: 155个仓库
-- burpsuite插件: 28个仓库
-- CTF相关: 32个仓库
-- DevOps: 44个仓库
+- 红队&渗透测试: 202个仓库
+- AI应用: 216个仓库
+- burpsuite插件: 29个仓库
+- CTF相关: 36个仓库
+- DevOps: 46个仓库
 - 云安全: 16个仓库
 - 扫描字典: 10个仓库
-- 代码审计: 35个仓库
-- bugbounty: 16个仓库
-- 其他: 5个仓库
-- 未分类: 182个仓库
+- 代码审计: 37个仓库
+- bugbounty: 18个仓库
+- 其他: 9个仓库
 
 ## 目录
 
@@ -42,7 +41,6 @@
 - [取证溯源](#取证溯源)
 - [开发工具&框架](#开发工具&框架)
 - [扫描字典](#扫描字典)
-- [未分类](#未分类)
 - [漏洞扫描](#漏洞扫描)
 - [红队&渗透测试](#红队&渗透测试)
 - [逆向破解](#逆向破解)
@@ -51,37 +49,48 @@
 
 ## AI应用
 
+- [0Chencc/clawgod](https://github.com/0Chencc/clawgod) - ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.
 - [1e0n/droid2api](https://github.com/1e0n/droid2api) - 
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+- [509992828/grok-register](https://github.com/509992828/grok-register) - 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [981029l/webnovel-writer](https://github.com/981029l/webnovel-writer) - 
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [Acmesec/theAIMythbook](https://github.com/Acmesec/theAIMythbook) - Ai迷思录（应用与安全指南）
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [AIDotNet/ClaudeCodeProxy](https://github.com/AIDotNet/ClaudeCodeProxy) - Claude Code Proxy 
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
+- [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX citations.
 - [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [b1ank1108/LLM-Star-Classifier](https://github.com/b1ank1108/LLM-Star-Classifier) - 这是一个使用 🤖 AI 对 GitHub Star 的仓库进行分类和总结的工具。
+- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [BenjaminAaron196/CLIProxyAPI](https://github.com/BenjaminAaron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+- [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - Drive x64dbg with your AI. MCP server: 23 mega-tools / 153 endpoints for breakpoints, memory, disasm, tracing, anti-debug & PE dumping. Claude/Cursor/Windsurf/Cline. All local.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [caidaoli/codebuddy2cc](https://github.com/caidaoli/codebuddy2cc) - 
 - [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) - 
+- [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) - 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.
+- [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 - [CassiopeiaCode/b4u2cc](https://github.com/CassiopeiaCode/b4u2cc) - 
 - [CassiopeiaCode/q2api](https://github.com/CassiopeiaCode/q2api) - Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+- [chen0416ccc-cpu/codex-windows-fast-patch-skill](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) - 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -89,61 +98,97 @@
 - [cjyyx/AI_Gen_Novel](https://github.com/cjyyx/AI_Gen_Novel) - 基于大语言模型(LLM)和多智能体(Multi-Agent)，探究AI写小说能力的边界
 - [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
 - [code-scan/AutoSubtitles](https://github.com/code-scan/AutoSubtitles) - 
+- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
+- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3-中文后训练版
 - [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) - A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+- [ddys9621/MuMuAINovel](https://github.com/ddys9621/MuMuAINovel) - 
 - [Dianel555/DSkills](https://github.com/Dianel555/DSkills) - CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).
+- [dj931567261/app-test-control](https://github.com/dj931567261/app-test-control) - 通过ai控制 app 以便自动化测试和修复/复现 bug
 - [DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN](https://github.com/DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN) - 
-- [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+- [dyedd/lens](https://github.com/dyedd/lens) - 为个人打造的最强大模型（LLM）API聚合系统
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+- [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
+- [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [funnycups/Toolify](https://github.com/funnycups/Toolify) - Empower any LLM with function calling capabilities.
 - [gaoziman/claude-context-manager](https://github.com/gaoziman/claude-context-manager) - claude-context-manager for claude code
 - [General-Analysis/mcp-guard](https://github.com/General-Analysis/mcp-guard) - MCP Guard secures your MCP client from prompt injection attacks and more.
+- [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter) - Docker service for OpenAI Privacy Filter (PII redaction API)
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [GuDaStudio/commands](https://github.com/GuDaStudio/commands) - 
 - [GuDaStudio/geminimcp](https://github.com/GuDaStudio/geminimcp) - Gemini-MCP is an MCP server that encapsulates Google's Gemini CLI tool into a standard MCP protocol interface, enabling Claude Code to invoke Gemini for AI-assisted programming tasks.
 - [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) - Integrate Grok's powerful real-time search capabilities into Claude via the MCP protocol!
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+- [hanlinwenyuan/hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker) - 检查第三方AI API是否掺假以及渠道一致
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [Hello-Application-XH/HelloKimi](https://github.com/Hello-Application-XH/HelloKimi) - Kimi的 Cloudflare Worker 2API层，提供 OpenAI协议兼容接口，支持流式对话、Tools调用。无需配置，部署即用。
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"  
+- [HM2899/grokcli-2api](https://github.com/HM2899/grokcli-2api) - 
 - [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai Chat 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi z2api ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [Hurricane0698/novelwriter](https://github.com/Hurricane0698/novelwriter) - NovelWriter ，一个围绕结构化世界模型构建的自部署长篇小说 AI 写作应用
+- [imraywang/wewrite](https://github.com/imraywang/wewrite) - 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
+- [inliver233/Ai-Novel](https://github.com/inliver233/Ai-Novel) - 强大的ai小说创作网站
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+- [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt) - 利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
+- [kaibush/grok-iq](https://github.com/kaibush/grok-iq) - GrokIQ - grok4.5/grok4.6 free 模型降智检测平台，可与grok-register项目联动使用
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 - [kao0312/zai-proxy](https://github.com/kao0312/zai-proxy) - 让 Z.ai Chat 物尽其用
+- [KayanoLiam/ContextX](https://github.com/KayanoLiam/ContextX) - A free remote MCP server offering normal (Grok 4.3) and deep (Grok 4.20 Multi-Agent) search. No API keys required, streaming support prevents gateway timeouts. 
 - [kele-tao/AI_Novel](https://github.com/kele-tao/AI_Novel) - 基于大模型的AI小说创作系统，支持小说和课程内容的智能生成，包含世界观设定、思维库、任务管理等完整功能。
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.
+- [liangdabiao/Claude-Code-Stock-Deep-Research-Agent](https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent) - 本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSearch、WebFetch、综合分析 质量: 多空平衡、明确风险、数据验证。简单使用：/stock-research AAPL, I want a quick overview
 - [liangdabiao/easy_investment_Agent_crewai](https://github.com/liangdabiao/easy_investment_Agent_crewai) - 基于AKShare和CrewAI的A股智能分析平台，通过多Agent协作提供专业的A股投资分析。  🚀 项目特色 📊 全面的A股数据分析：实时行情、财务数据、资金流向、市场情绪 🤖 多Agent协作：4个专业化AI角色协同工作 🇨🇳 A股市场特色：针对中国股市特点优化分析 📈 专业分析工具：基于AKShare的专业数据源 🎯 智能投资建议：综合分析提供投资决策参考
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
+- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy.
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
 - [LongWeihan/taskcaptain](https://github.com/LongWeihan/taskcaptain) - The AI captain for autonomous task delivery
+- [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [lulistart/nexos2api](https://github.com/lulistart/nexos2api) - 将 nexos.ai 的 API 封装为标准的 OpenAI 兼容接口。
 - [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
+- [lxzagent/auto-phone-scheduler](https://github.com/lxzagent/auto-phone-scheduler) - 基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作。
 - [lza6/FreeAIchat-2api](https://github.com/lza6/FreeAIchat-2api) - 模拟浏览器请求 (非无头)、需自备 Cookie、服务端会话管理、高级请求伪装绕过机器人检测、原生 SSE 流转标准 OpenAI API、Docker 一键部署
 - [lza6/notion-2api](https://github.com/lza6/notion-2api) - 基于 Cookie/Token 认证、自动绕过 Cloudflare (CF) 人机验证、高级反检测伪装、高速流式 API 转换、Docker 一键部署
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
+- [minsight-ai-info/AI-Search-Hub](https://github.com/minsight-ai-info/AI-Search-Hub) - One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
+- [miunasu/IDA-Skill](https://github.com/miunasu/IDA-Skill) - 使用skill让 AI Agent 像安全分析师一样分析恶意样本 | AI Agent skill for automated malware analysis using IDA Pro
+- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mucsbr/amq2api](https://github.com/mucsbr/amq2api) - 
+- [mumu-0922/GankAIGC](https://github.com/mumu-0922/GankAIGC) - GankAIGC在线网站
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
+- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
 - [NanSsye/xxx-on-wechat](https://github.com/NanSsye/xxx-on-wechat) - dow新协议接口
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [oDaiSuno/jetbrainsai2api](https://github.com/oDaiSuno/jetbrainsai2api) - 
 - [oDaiSuno/retool2API](https://github.com/oDaiSuno/retool2API) - 
+- [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
+- [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [Passerby1011/cc-proxy](https://github.com/Passerby1011/cc-proxy) - 
@@ -152,19 +197,23 @@
 - [phith0n/v2srt](https://github.com/phith0n/v2srt) - v2srt 是一个基于人工智能的视频字幕生成工具，为任意视频生成高质量的字幕文件。
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
 - [run-bigpig/jcp](https://github.com/run-bigpig/jcp) - 韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [snakeying/Synapse](https://github.com/snakeying/Synapse) - Multi-model AI workflow: Claude & Gemini draft code, Codex reviews and applies—safe, gated, production-ready. 多模型 AI 工作流：Claude 与 Gemini 起草代码，Codex 审查并应用——安全、门控、生产级
+- [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 - [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
 - [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [t59688/arboris-novel](https://github.com/t59688/arboris-novel) - AI 写作伙伴，点亮你的创作灵感
@@ -173,18 +222,24 @@
 - [Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval) - A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 - [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker) - A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
 - [uluckyXH/OpenMOSS](https://github.com/uluckyXH/OpenMOSS) - A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+- [val1813/kaiwu](https://github.com/val1813/kaiwu) - 本地开源模型部署器，一键部署，支持各类系统，主流模型。
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+- [voidcraft-dev/memory-forge-rs](https://github.com/voidcraft-dev/memory-forge-rs) - Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI & pi &Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
+- [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.
+- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Water008/QwenAPI](https://github.com/Water008/QwenAPI) - 
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) - gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
@@ -194,6 +249,8 @@
 - [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [yeuxuan/sider2api](https://github.com/yeuxuan/sider2api) - 
+- [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+- [Yrzhe/pagefly](https://github.com/Yrzhe/pagefly) - Personal Knowledge OS — Capture → Distill → Compile → Serve. Self-hosted knowledge data platform with AI agents, Telegram bot, and REST API.
 - [yuanzhoulvpi2017/zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp) - 中文nlp解决方案(大模型、数据、模型、训练、推理) 
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -203,6 +260,8 @@
 - [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
+- [ZKY-DW-Wait-me/YOLO-CAPTCHA](https://github.com/ZKY-DW-Wait-me/YOLO-CAPTCHA) - 本项目是一个基于 YOLO11n 架构的轻量化验证码识别模型。
+- [ZRainbow1275/AutoTeam-F](https://github.com/ZRainbow1275/AutoTeam-F) - 更好的Autoteam，实现前端到后端全方位的加强，同时可以批量获取免费号
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [ZyphrZero/bilihardcore_ai](https://github.com/ZyphrZero/bilihardcore_ai) - B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
 - [ZyphrZero/z.ai2api_python](https://github.com/ZyphrZero/z.ai2api_python) - 仅供学习
@@ -218,13 +277,16 @@
 - [datouo/CTF-Java-Gadget](https://github.com/datouo/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [dr0n1/AWD_RAH](https://github.com/dr0n1/AWD_RAH) - AWD辅助工具
 - [ErodedElk/BinaryAbyss](https://github.com/ErodedElk/BinaryAbyss) - 二进制安全系列课程。以 CTF(Capture The Flag) 为导向，预计将会包括 Basic(基础知识)、 Pwn(二进制漏洞利用) 与 Reverse(逆向工程) 三部分主要内容以及 Other(其他内容)。
+- [GALIAIS/CTF-Sandbox-Orchestrator](https://github.com/GALIAIS/CTF-Sandbox-Orchestrator) - 
 - [giantbranch/pwn_deploy_chroot](https://github.com/giantbranch/pwn_deploy_chroot) - 可以方便地部署一个或者多个pwn题到一个docker容器中（使用chroot，并可以设置是否使用我自己写的catflag程序替换默认的/bin/sh程序，以增加安全性）
 - [Hakumarachi/Bropper](https://github.com/Hakumarachi/Bropper) - An automatic Blind ROP exploitation tool
 - [heimao-box/pwnpasi](https://github.com/heimao-box/pwnpasi) - This tool is an automated PWN exploitation framework designed for CTF competitions and binary vulnerability exploitation. It integrates various exploitation techniques such as stack overflow and format string attacks, supporting automated analysis and exploitation for both 32-bit and 64-bit programs.
+- [huihuilikaile/CTF-BTFly](https://github.com/huihuilikaile/CTF-BTFly) - 一个基于pi的自动化ctf agent解题工具
 - [isee15/ctf-tools](https://github.com/isee15/ctf-tools) - 网鼎杯培训用到的一些ctf工具(javafx)，编解码，键盘和鼠标抓包解密，维吉尼亚暴力破解，zip crc暴力破解，曼彻斯特解码等。
 - [LamentXU123/Typhon](https://github.com/LamentXU123/Typhon) - pyjail (python jail) 绕过 一把梭 CTF 工具
 - [lexsd6/LibcSearcher_plus](https://github.com/lexsd6/LibcSearcher_plus) - Libsearcher improved according to my personal habits.LibcSearcher所启发优化而来的项目优化代码部分逻辑，使在使用更便捷的基础上，添加one_gatge查询功能。
 - [livz/cloacked-pixel](https://github.com/livz/cloacked-pixel) - LSB steganography and detection
+- [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF
 - [Panagiotis-INS/Cyber-Defenders](https://github.com/Panagiotis-INS/Cyber-Defenders) - This repo is all about Blue teamming and CyberDefenders Write-up for their DFIR challenges
 - [Paradoxis/Flask-Unsign](https://github.com/Paradoxis/Flask-Unsign) - Command line tool to fetch, decode, brute-force and craft session cookies of a  Flask  application by guessing secret keys.
@@ -239,6 +301,7 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [skyf0l/RsaCracker](https://github.com/skyf0l/RsaCracker) - Powerful RSA cracker for CTFs. Supports RSA, X509, OPENSSH, PKCS#12, PKCS#7, and CSR in PEM and DER formats.
 - [sourcekris/RsaCtfTool](https://github.com/sourcekris/RsaCtfTool) - RSA CTF Tool - Tool to attack RSA public keys and ciphertexts in common ways
+- [systemoutprintlnhelloworld/plus-pp-helper](https://github.com/systemoutprintlnhelloworld/plus-pp-helper) - 
 - [yulate/CtfAgent](https://github.com/yulate/CtfAgent) - ctf awd比赛快速hook java题，提供一键流量转发，无痛修复
 - [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform
 
@@ -250,6 +313,7 @@
 - [b1ank1108/b1cron](https://github.com/b1ank1108/b1cron) - B1Cron 是一个现代化的定时任务管理系统，使用 Go 语言构建。提供简洁的 Web 界面，用于创建、管理和监控定时任务，支持实时执行监控和历史记录查看。
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [carrot-hu23/dst-admin-go](https://github.com/carrot-hu23/dst-admin-go) - Don't Starve Together server panel. Manage room with ease, featuring visual world and mod management, player log collection。饥荒联机服务器面板。轻松管理房间，支持可视化的世界和模组管理，玩家日志采集
+- [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [CompassSecurity/pipeleek](https://github.com/CompassSecurity/pipeleek) - Pipeleek scans CI/CD logs and artifacts to detect leaked secrets and pivot from them
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
@@ -283,6 +347,7 @@
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
+- [walkingddd/TgtoDrive](https://github.com/walkingddd/TgtoDrive) - 一条龙网盘媒体自动化平台：从找资源、自动转存、智能整理、挂载 STRM、到 Emby 302 直链播放，全流程打通；重点强化 115 / 123 / 光鸭云盘整理与转存、115 / 123 /光鸭云盘 STRM 全量与增量生成、以及 Emby 反向代理 302 播放能力。
 - [wavestone-cdt/DEFCON-CICD-pipelines-workshop](https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop) - 
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
 - [yonyoucloud/install_k8s](https://github.com/yonyoucloud/install_k8s) - 一键安装kubernets(k8s)系统，采用RBAC模式运行（证书安全认证模式），既可以单台安装、也可以集群安装，并且完全是生产环境的安装标准。有疑问大家可以加我微信沟通：bsh888
@@ -292,9 +357,11 @@
 ## LLM安全
 
 - [agiresearch/ASB](https://github.com/agiresearch/ASB) - Agent Security Bench (ASB)
+- [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) - 用于检测api是否路由真实gpt5.6模型
 - [ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit) - AutoAudit—— the LLM for Cyber Security 网络安全大语言模型
 - [Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs](https://github.com/Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs) - A novel prompt injection method via forged internal states, discovered by a high school student.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
+- [JoySafety/JoySafety](https://github.com/JoySafety/JoySafety) - JoySafety
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
@@ -304,6 +371,7 @@
 - [SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook) - 安全手册，企业安全实践、攻防与安全研究知识库
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
 - [thu-coai/Safety-Prompts](https://github.com/thu-coai/Safety-Prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
+- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [utkusen/promptmap](https://github.com/utkusen/promptmap) - a security scanner for custom LLM applications
 
 ## Web安全
@@ -340,10 +408,13 @@
 - [Esonhugh/pydoll-cf-waf-bypasser-skills](https://github.com/Esonhugh/pydoll-cf-waf-bypasser-skills) - a antibot waf bypasser based on pydoll framework good at Cloudflare, 基于 pydoll 编写 cf 或其他家验证 waf 绕过人机检查的 skills. 现已加入 https://github.com/Esonhugh/Marketplace Marketplace 豪华午餐 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [Fly-Playgroud/Boom](https://github.com/Fly-Playgroud/Boom) - Boom 是一款基于无头浏览器的智能 Web 弱口令（后台密码）爆破\检测工具
+- [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
 - [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
 - [gprime31/WAF-bypass-xss-payloads](https://github.com/gprime31/WAF-bypass-xss-payloads) - XSS payloads for bypassing WAF. This repository is updating continuously.
 - [hackerscrolls/SecurityTips](https://github.com/hackerscrolls/SecurityTips) - 
 - [Hardw01f/Vulnerability-goapp](https://github.com/Hardw01f/Vulnerability-goapp) - Web application build Golang with Vulnerability
+- [irsdl/webhacklist](https://github.com/irsdl/webhacklist) - Archive of the Top 10 Web Hacking Techniques - every nominee since 2006, preserved
+- [ismoiloffS/EzSolver](https://github.com/ismoiloffS/EzSolver) - Cloudflare Turnstile solver & bypass — Python, real Chrome browser, no paid APIs. Local HTTP API service included. Auto-solves invisible and managed (checkbox) widgets. Works on Windows   & Linux. Fast, lightweight, zero third-party captcha services.
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
 - [juanjolmm/java-secure-file-upload](https://github.com/juanjolmm/java-secure-file-upload) - Java library used to upload files following the security steps described by OWASP
@@ -353,6 +424,7 @@
 - [LandGrey/webshell-detect-bypass](https://github.com/LandGrey/webshell-detect-bypass) - 绕过专业工具检测的Webshell研究文章和免杀的Webshell
 - [LeadroyaL/java-xxe-defense-demo](https://github.com/LeadroyaL/java-xxe-defense-demo) - java xxe defense demo
 - [leveryd/x-waf](https://github.com/leveryd/x-waf) - 让"WAF绕过"变得简单
+- [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
 - [lijiejie/swagger-exp](https://github.com/lijiejie/swagger-exp) - A Swagger API Exploit
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files 
@@ -360,6 +432,7 @@
 - [misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
 - [mm0r1/exploits](https://github.com/mm0r1/exploits) - Pwn stuff.
 - [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector) - Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
+- [MY0723/FLUX-Webscan](https://github.com/MY0723/FLUX-Webscan) - FLUX  是一款专业的Web安全扫描工具，JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析等功能。
 - [N0el4kLs/JSHunter](https://github.com/N0el4kLs/JSHunter) - JSHunter-一款针对于前端的未授权访问扫描工具
 - [opensec-cn/conote-community](https://github.com/opensec-cn/conote-community) - Conote 综合安全测试平台社区版。
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -374,6 +447,7 @@
 - [su18/MemoryShell](https://github.com/su18/MemoryShell) - JavaWeb MemoryShell Inject/Scan/Killer/Protect Research & Exploring
 - [SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability) - Java漏洞学习笔记 Deserialization Vulnerability
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
 - [tomnomnom/qsreplace](https://github.com/tomnomnom/qsreplace) - Accept URLs on stdin, replace all query string values with a user-supplied value
 - [TryGOTry/dogxss](https://github.com/TryGOTry/dogxss) - dogxss(基于Go-admin框架和ezxss_payload完成):ezxss的Golang版本.
@@ -388,14 +462,16 @@
 - [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
 - [antoinet/swiss-bugbounty-programs](https://github.com/antoinet/swiss-bugbounty-programs) - List of bug bounty and coordinated vulnerability disclosure programs of companies/organisations in Switzerland
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [Awarexone/Agentic-Bug-Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter) - AI-powered bug bounty hunting toolkit that works with or without subscription.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
+- [bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy) - Bugcrowd’s baseline priority ratings for common security vulnerabilities
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) - CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules.
 - [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) - Automation for javascript recon in bug bounty. 
 - [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters..
+- [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) - 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payload、263 个 WAF/EDR 绕过、2887 份 HackerOne 真实案例、88,636 WooYun 案例统计
 - [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.  
 - [RapidDNS/Afuzz](https://github.com/RapidDNS/Afuzz) - Afuzz is an automated web path fuzzing tool for the Bug Bounty projects.
-- [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.
 - [supr4s/WebHackingTools](https://github.com/supr4s/WebHackingTools) - Automatically install some web hacking/bug bounty tools.
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [topscoder/subgomain](https://github.com/topscoder/subgomain) - A high-performance tool for identifying domain takeovers with support for custom fingerprints and resolver lists.
@@ -418,6 +494,7 @@
 - [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) - 一款OutLook信息收集工具
 - [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 - [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
+- [overspace-labs/CaA](https://github.com/overspace-labs/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
 - [r1is/Magisk_burpsuite_cert](https://github.com/r1is/Magisk_burpsuite_cert) - Magisk burpsuite 证书模块，在安卓10以上通过magisk模块快速安装burpsuite证书
 - [saoshao/DetSql](https://github.com/saoshao/DetSql) - Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率
 - [shuanx/BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder) - 攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
@@ -454,6 +531,7 @@
 
 ## 代码审计
 
+- [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) - 
 - [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil) - 检测查杀java内存马
 - [alipay/ant-application-security-testing-benchmark](https://github.com/alipay/ant-application-security-testing-benchmark) - xAST评价体系，让安全工具不再“黑盒”.   The xAST evaluation benchmark makes security tools no longer a "black box".
 - [ASTTeam/CodeQL](https://github.com/ASTTeam/CodeQL) - 《深入理解CodeQL》Finding vulnerabilities with CodeQL.
@@ -477,6 +555,7 @@
 - [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e) - An easy-to-learn/use static analysis framework for Java and Android
 - [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
 - [proudwind/javasec_study](https://github.com/proudwind/javasec_study) - java代码审计学习笔记
+- [RuoJi6/audit-skills](https://github.com/RuoJi6/audit-skills) - 专注于代码审计skill，最小化轻量化skill，只负责安全边界。
 - [safe6Sec/CodeqlNote](https://github.com/safe6Sec/CodeqlNote) - Codeql学习笔记
 - [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) -  🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call-Chain Tracking | 🚀 Method/Class Search | 🔥 Prebuilt Vuln Sinks   Native Integration | Decompiler/Path Finder | Memory Optimized 🔍 CodeAuditAssistant - IDEA代码审计插件  ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器 
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -494,6 +573,7 @@
 
 - [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 - [1193776794/launch](https://github.com/1193776794/launch) - 检测工具
+- [A10ha/ICPSearch](https://github.com/A10ha/ICPSearch) - ICP 备案批量查询工具
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [Adminisme/SharpRDPLog](https://github.com/Adminisme/SharpRDPLog) - Windows rdp相关的登录记录导出工具，可用于后渗透中Windows服务器的信息收集阶段。输出内容包括：本地rdp端口、mstsc缓存、cmdkey缓存、登录成功、失败日志事件。
 - [al-sultani/url-tracker](https://github.com/al-sultani/url-tracker) - Change monitoring app that checks the content of web pages in different periods.
@@ -502,7 +582,7 @@
 - [b3nguang/Ollama-Scan](https://github.com/b3nguang/Ollama-Scan) - 助你实现Ollama自由，配合FOFA等搜索引擎体验更佳
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [blessonism/openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills) - OpenClaw skills for deep search — multi-source search, content extraction, and structured research reports.
+- [blessonism/search-skills](https://github.com/blessonism/search-skills) - skills for deep search — multi-source search, content extraction, and structured research reports.
 - [burpheart/koko-moni](https://github.com/burpheart/koko-moni) - 一个基于网络空间搜索引擎的攻击面管理平台，可定时进行资产信息爬取，及时发现新增资产，本项目聚合了 Fofa、Hunter、Quake、Zoomeye 和 Threatbook 的数据源，并对获取到的数据进行去重与清洗
 - [burpheart/yuque-crawl](https://github.com/burpheart/yuque-crawl) - 语雀爬虫  可以保存整个语雀知识库为Markdown格式 (包含完整目录结构和索引)
 - [Byxs20/FlowAnalyzer](https://github.com/Byxs20/FlowAnalyzer) - 一个基于 Tshark 的高性能流量分析器。采用流式解析与 SQLite 缓存架构，专为处理海量数据包设计，内存占用极低且支持秒级二次加载。
@@ -522,6 +602,7 @@
 - [goclone-dev/goclone](https://github.com/goclone-dev/goclone) -  Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [hanc00l/nemo_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
+- [HG-ha/ICP_Query](https://github.com/HG-ha/ICP_Query) - 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [honmashironeko/ARL-docker](https://github.com/honmashironeko/ARL-docker) - 基于ARL v2.6.2版本源码，生成docker镜像进行快速部署，同时提供七千多条指纹
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
@@ -530,10 +611,12 @@
 - [JDArmy/RPCSCAN](https://github.com/JDArmy/RPCSCAN) - RPC远程主机信息匿名扫描工具
 - [knownsec/LSpider](https://github.com/knownsec/LSpider) - LSpider 一个为被动扫描器定制的前端爬虫
 - [komomon/Komo](https://github.com/komomon/Komo) - 🚀Komo, a comprehensive asset collection and vulnerability scanning tool. Komo 一个综合资产收集和漏洞扫描工具，集成了20余款工具，通过多种方式对子域进行获取，收集域名邮箱，进行存活探测，域名指纹识别，域名反查ip，ip端口扫描，web服务链接爬取并发送给xray，对web服务进行POC漏洞扫描，对主机进行主机漏洞扫描。
+- [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) - 
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [lemonlove7/dirsearch_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) - 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
 - [loecho-sec/ARL-Finger-ADD](https://github.com/loecho-sec/ARL-Finger-ADD) - 灯塔（最新版）指纹添加脚本！
+- [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) - 
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [mhmdiaa/second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
 - [mouday/stock-open-api](https://github.com/mouday/stock-open-api) - 股票数据接口
@@ -545,7 +628,9 @@
 - [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 🚀 自动化资产侦察与漏洞监控平台 (ARL-Next)。重构自经典 ARL，全面升级 Puppeteer + Nuclei 引擎，打通「天眼查/ICP ➔ 资产发现 ➔ 漏洞扫描 ➔ 威胁情报追踪」安全闭环。支持 Docker 极简部署，AI 二开友好。
 - [p1g3/JSINFO-SCAN](https://github.com/p1g3/JSINFO-SCAN) - 递归式寻找域名和api。
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports! 
@@ -556,6 +641,7 @@
 - [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 - [Ridter/Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) - 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
+- [s1g0day/ICP_Query_Batch](https://github.com/s1g0day/ICP_Query_Batch) - 从工业和信息化部政务服务平台进行的ICP备案查询，核心是 HG-ha 师傅的 ICP_Query 项目
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
@@ -566,24 +652,34 @@
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [thinkoaa/Deadpool](https://github.com/thinkoaa/Deadpool) - deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理，轮询使用代理进行流量转发。
 - [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
+- [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 天天卡网
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go) - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~
+- [watchttvv/free-proxy-list](https://github.com/watchttvv/free-proxy-list) - free socks5 http https proxy-list 免费socks5代理 socks5爬虫代理 最新socks5
+- [wenbochang888/github-trending-spider](https://github.com/wenbochang888/github-trending-spider) - 每日AI前沿信息。开源趋势、社区热议、AI 动态
+- [wpsec/ARL-Source-Install](https://github.com/wpsec/ARL-Source-Install) - 基于 ARL 深度扩展与持续优化的互联网资产自动化收集平台，面向资产发现、暴露面梳理、风险排查与持续监测等场景，提供域名识别、子域名发现、测绘引擎查询、端口与服务识别、指纹分析、URL 提取、漏洞检测、计划任务与结果汇总等能力 系统适用于乙方专业安全厂商、甲方安全运维部门开展日常资产盘点、攻击面治理与安全运营、安服交付支撑工作。欢迎各位师傅提bug，共同维护～
 - [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
 - [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2026最新免费社工库排行
 - [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据
 - [XinRoom/go-portScan](https://github.com/XinRoom/go-portScan) - High-performance port scanner. 高性能端口扫描器. syn scanner
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, GhostArchive & Intelligence X!
 - [YouChenJun/Keydd](https://github.com/YouChenJun/Keydd) - 从流量包匹配敏感信息的工具-可用作bp、浏览器的下游代理。0感知、无卡顿，支持https。
+- [Yvesssn/DetectDee](https://github.com/Yvesssn/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | Collect valueable vulnerabilities and push them to various services
 - [zer0yu/CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: A collection of cybersecurity rss to make you better!
+- [zhangsalute1/fanqietrend-main](https://github.com/zhangsalute1/fanqietrend-main) - 
 
 ## 其他
 
 - [b1ank1108/b1ank1108](https://github.com/b1ank1108/b1ank1108) - 
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+- [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+- [NOTFROMCONCEN/clash_node_check](https://github.com/NOTFROMCONCEN/clash_node_check) - 
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+- [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill) - 糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！
+- [wkeqin/mimi3](https://github.com/wkeqin/mimi3) - 
 - [yuanninesuns/AutoHS](https://github.com/yuanninesuns/AutoHS) - 炉石传说脚本（经典模式）
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 
@@ -604,9 +700,11 @@
 
 ## 开发工具&框架
 
+- [50521136/EzSolver](https://github.com/50521136/EzSolver) - Optimized/production-hardened fork of ismoiloffS/EzSolver. Same POST /solve API. Fixes Too many open files via unique profiles + Chrome process cleanup.
 - [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) - 自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
 - [actiontech/sqle](https://github.com/actiontech/sqle) - 一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。
 - [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信|抖Y多聊|钉钉 多开、防撤回提示、多账号免扫码登录的终极解决方案
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -623,7 +721,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) - Codex CLI 多智能体并行调度配置参考模板——启用原生并行能力，实现主代理自主协调与子代理高效任务分发。Codex CLI Multi-Agent Parallel Scheduling Configuration Reference Template Enabling Native Parallelism for Autonomous Primary Agent Coordination and Efficient Sub-Agent Task Distribution.
 - [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) - ScopeSentry工具的前端UI
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [b1ank1108/tg-fwd](https://github.com/b1ank1108/tg-fwd) - Telegram 频道转发工具，支持禁止转发消息的频道
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -631,6 +729,7 @@
 - [beihaili/Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) - Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [bigintpro/csdn_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://toolman.ddnsfree.com:9192/#/login?c=12
+- [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator) - 身份证图片生成工具-仅供学习交流。已打包Maocs app和Windows exe，可直接下载使用
@@ -640,9 +739,11 @@
 - [chabou/hyper-pane](https://github.com/chabou/hyper-pane) - Extension for Hyper.app to enhance pane navigation.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 - [chenyufeng1991/BinaryTree](https://github.com/chenyufeng1991/BinaryTree) - C语言实现二叉树的基本操作
 - [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特步会员中心小程序脚本 | 乐事心动社小程序脚本 | EMS邮惠中心小程序脚本 | hotwind热风微商城小程序脚本 | 统一快乐星球小程序脚本 |老板电器服务微商城小程序
 - [cinar/indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
+- [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 - [Claudate/project-multilevel-index](https://github.com/Claudate/project-multilevel-index) - 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill 
 - [cloudwego/abcoder](https://github.com/cloudwego/abcoder) - deep, reliable and confidential coding-context
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
@@ -650,9 +751,13 @@
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [cursor/cursor](https://github.com/cursor/cursor) - 
+- [dama-cyber/Casting-Workflow](https://github.com/dama-cyber/Casting-Workflow) - 
+- [davaded/frontend-art-direction](https://github.com/davaded/frontend-art-direction) - 
 - [Davidasx/gemini-antiblock-go](https://github.com/Davidasx/gemini-antiblock-go) - Gemini Antiblock Proxy (Go 版本)
 - [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
+- [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering) - Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 - [dev-coco/Deep-Clean](https://github.com/dev-coco/Deep-Clean) - Deep clean junk files. 深度清理垃圾软件。
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - To help you get started quickly and improve in the Go programming language
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
@@ -666,20 +771,24 @@
 - [everythingbest/dubbo-postman](https://github.com/everythingbest/dubbo-postman) - DUBBO-POSTMAN: 一个用于通过web-ui页面访问dubbo接口的工具，可以进行dubbo接口测试，dubbo接口集成测试，dubbo接口场景测试
 - [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
 - [fifty-six/Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written with Avalonia.
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
+- [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ayatana application indicator to show various system parameters - Debian and Ubuntu
 - [frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan) - Yet another C# Wrapper for cqhttp
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -687,23 +796,33 @@
 - [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
 - [h3h3qaq/JavaDecompiler](https://github.com/h3h3qaq/JavaDecompiler) - 一个基于 Vineflower 引擎的多线程 Java 批量反编译工具，支持快速处理大量的 class 文件和 JAR 文件。
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
+- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code. 
+- [hellowind777/hello2cc](https://github.com/hellowind777/hello2cc) - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 - [hengfengliya/imgood](https://github.com/hengfengliya/imgood) - 
 - [heromantf/acemcp-relay](https://github.com/heromantf/acemcp-relay) - 
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 - [hitsz-ids/auto-regex](https://github.com/hitsz-ids/auto-regex) - automatic regex generation tool
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [hsingjui/ContextWeaver](https://github.com/hsingjui/ContextWeaver) - ContextWeaver 是一个基于 MCP 协议、利用 Tree-sitter 和向量搜索为大语言模型提供本地代码库智能上下文编织与检索的工具。
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+- [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) - A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension 
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [IndustriousSnail/javassist-learn](https://github.com/IndustriousSnail/javassist-learn) - Javassist官方文档中文翻译
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
+- [james-6-23/codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 - [james-6-23/new_api_tools](https://github.com/james-6-23/new_api_tools) - 
 - [jar-analyzer/jar-analyzer-v1-gui](https://github.com/jar-analyzer/jar-analyzer-v1-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
 - [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 SpringBoot 和 war 包，配置简单，文档教程齐全，容易上手
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [JDArmy/TextWatermark](https://github.com/JDArmy/TextWatermark) - Watermark For Text
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
+- [Jia-Ethan/claude-keysmith](https://github.com/Jia-Ethan/claude-keysmith) - Managed Claude Code instruction deployment with safe CLI recovery and an unsigned macOS/Windows desktop beta.
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [jwy87/SimpleHub](https://github.com/jwy87/SimpleHub) - 
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
@@ -713,14 +832,19 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [LearnGolang/LearnGolang](https://github.com/LearnGolang/LearnGolang) - 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+- [lij768423-svg/grok2api-egress-enhancements](https://github.com/lij768423-svg/grok2api-egress-enhancements) - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI
 - [liqianglog/django-vue-admin](https://github.com/liqianglog/django-vue-admin) - A complete set of basic development platform for permission control based on RBAC model, with front-end and back-end separation, and the back-end using django+django-rest-framework, while the frontend using Vue+ElementUI+d2admin.
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [longbridge/autocorrect](https://github.com/longbridge/autocorrect) - Automatically add whitespace between Chinese and half-width characters (alphabetical letters, numerical digits and symbols).
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [LubyRuffy/ProxyCraft](https://github.com/LubyRuffy/ProxyCraft) - ProxyCraft 是一款轻量级、高性能的命令行代理工具，本身为 HTTP 代理协议，支持 HTTPS/HTTP2/SSE 特性，用于进行本地抓包分析。它专为开发人员、安全测试人员和网络管理员设计，提供便捷的流量观察、分析和调试能力。
 - [masterqiu01/cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator) - Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行。
 - [MichaelXF/js-confuser](https://github.com/MichaelXF/js-confuser) - JS-Confuser is a JavaScript obfuscation tool to make your programs *impossible* to read.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
+- [mkcs121/APK-Easy-Tool](https://github.com/mkcs121/APK-Easy-Tool) - Credits to evildog1 for developing this awesome tool
 - [momosecurity/rhizobia_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
 - [MoonWeSif/DuckMail](https://github.com/MoonWeSif/DuckMail) - 优雅易用的临时邮箱客户端，支持 API 无鉴权调用与接入私有域名，一键获取专属的临时邮箱。
 - [muzihuaner/all-in-one](https://github.com/muzihuaner/all-in-one) - All-in-One 搞基手册
@@ -728,17 +852,26 @@
 - [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
 - [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit) - A Better ADB GUI and More Than a ADB GUI
 - [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial) - A step-by-step tutorial for Soot (a Java static analysis framework)
+- [NookMux/Antigravity2api-node-js](https://github.com/NookMux/Antigravity2api-node-js) - 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
 - [nxpatterns/gitnexus](https://github.com/nxpatterns/gitnexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [oceanbase/powercontext](https://github.com/oceanbase/powercontext) - PowerContext: The Next Generation of PowerMem. Not only memory !!!
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 - [OmegaChan/chanHooks](https://github.com/OmegaChan/chanHooks) - 
+- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+- [opentokenz/mcpx](https://github.com/opentokenz/mcpx) - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
+- [oulkurt/fast-context-skill](https://github.com/oulkurt/fast-context-skill) - Codex Skill fork of fast-context-mcp that calls Windsurf Devstral without an MCP server
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.  Install, list, start, stop, unregister, and configure your WSL distros​ from one place.
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -748,6 +881,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qicfan/qmediasync](https://github.com/qicfan/qmediasync) - 基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等
 - [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [qy527145/acemcp](https://github.com/qy527145/acemcp) - 一个将ACE(Augment Context Engine) 做成MCP的项目
@@ -756,25 +890,33 @@
 - [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP.
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+- [ruezo/docode](https://github.com/ruezo/docode) - A Chromium extension that turns Linux DO into a VS Code workbench. | 像读源码一样逛 LINUX DO。
 - [RuoJi6/java-decompile-mcp](https://github.com/RuoJi6/java-decompile-mcp) - 
+- [Sayhi-bzb/Agent-HTML](https://github.com/Sayhi-bzb/Agent-HTML) - You don't need a chat ui but a canvas with ai.
+- [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [smartian1/tgtrader](https://github.com/smartian1/tgtrader) - 量化交易工具集，旨在以低代码的方式，来进行量化投研、回测和交易（微信公众号：天工量化）
 - [sqlsec/GG-Present](https://github.com/sqlsec/GG-Present) - 国光自用的 TouchBar MTMR 规则
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [streetartist/zenproxy](https://github.com/streetartist/zenproxy) - 
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+- [SummerSec/LOF_Arbiter](https://github.com/SummerSec/LOF_Arbiter) - LOF_Arbiter (套利)
 - [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) - A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。
 - [superboyyy/xianyu_spider](https://github.com/superboyyy/xianyu_spider) - 闲鱼爬虫，基于闲鱼网页端开发，使用 FastAPI 构建的闲鱼商品搜索接口，支持异步并发请求和自动化数据去重存储。现已支持登录。
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
+- [timwhitez/C0de1ndex](https://github.com/timwhitez/C0de1ndex) - AI 驱动的代码库索引工具
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. 
 - [tjfoc/gmsm](https://github.com/tjfoc/gmsm) - GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
@@ -785,10 +927,11 @@
 - [turn1tup/JspEncounter](https://github.com/turn1tup/JspEncounter) - 
 - [twgh/xcgui](https://github.com/twgh/xcgui) - 炫彩界面库. Go GUI library. Golang bindings for XCGUI, Windows GUI library, DirectUI design idea.
 - [twtrubiks/django-celery-tutorial](https://github.com/twtrubiks/django-celery-tutorial) - Django Celery Tutorial
+- [u33pk/mitmproxy-mcp](https://github.com/u33pk/mitmproxy-mcp) - 
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [ulisesbocchio/jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot) - Jasypt integration for Spring boot
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) - 🧰 玩转语雀-朴实无华的语雀工具集合，语雀知识库+团队资源批量导出/备份工具(无需Token)｜浏览器插件助手
+- [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) - 🧰 玩转语雀-朴实无华的语雀资源导出工具，语雀知识库+团队资源批量导出/备份工具(无需Token)
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -797,13 +940,18 @@
 - [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) - 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version)
 - [wisdgod/cursor-api](https://github.com/wisdgod/cursor-api) - 
+- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) -  Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
+- [wuwei-crg/AutoLXB](https://github.com/wuwei-crg/AutoLXB) - 基于常驻守护进程的 Android 自动化框架，支持多任务定时执行。| Android automation framework with persistent daemon and scheduled tasks.
 - [wuxianlin/harmonyos_next_emulator_mod](https://github.com/wuxianlin/harmonyos_next_emulator_mod) - modified HarmonyOS Next emulator,with root permission
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+- [xgo-dev/llgo](https://github.com/xgo-dev/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [xixianloux/google-account-automanager](https://github.com/xixianloux/google-account-automanager) - 
@@ -811,16 +959,20 @@
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS
+- [xweiba/location-spoofer](https://github.com/xweiba/location-spoofer) - 面向 iOS 定位服务行为研究和开发测试的虚拟定位工具，支持地图选点、本地与第三方代理、WGS-84 / GCJ-02 双坐标、环境检测和问题诊断。
 - [xwk134/gin-vue-blog](https://github.com/xwk134/gin-vue-blog) - 本项目使用Vue3+Gin+Gorm+ElasticSearch+WebSocket实现的前后端分离的个人博客
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [yaklang/yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
+- [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - Fast, context-efficient repository tools for AI agents (MCP)
 - [ydsuper/Typora_Free_Download](https://github.com/ydsuper/Typora_Free_Download) - Typora _v0.11.18 最新免费版安装包（后面的v1.0就开始收费了）
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [yuque-helper/yuque2book](https://github.com/yuque-helper/yuque2book) - export yuque repo to a book 将你的语雀文档导出的工具
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
+- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
 - [zhuifengshen/DingtalkChatbot](https://github.com/zhuifengshen/DingtalkChatbot) - 钉钉群自定义机器人消息Python封装
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 ## 扫描字典
 
@@ -834,191 +986,6 @@
 - [SexyBeast233/SecDictionary](https://github.com/SexyBeast233/SecDictionary) - 实战沉淀字典
 - [trickest/mkpath](https://github.com/trickest/mkpath) - Make URL path combinations using a wordlist
 - [z-bool/super-password-dict](https://github.com/z-bool/super-password-dict) - 泰坦字典生成器-非常全面的密码字典生成器
-
-## 未分类
-
-- [0Chencc/clawgod](https://github.com/0Chencc/clawgod) - ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.
-- [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) - 
-- [50521136/EzSolver](https://github.com/50521136/EzSolver) - Optimized/production-hardened fork of ismoiloffS/EzSolver. Same POST /solve API. Fixes Too many open files via unique profiles + Chrome process cleanup.
-- [509992828/grok-register](https://github.com/509992828/grok-register) - 
-- [981029l/webnovel-writer](https://github.com/981029l/webnovel-writer) - 
-- [A10ha/ICPSearch](https://github.com/A10ha/ICPSearch) - ICP 备案批量查询工具
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。
-- [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX citations.
-- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
-- [BenjaminAaron196/CLIProxyAPI](https://github.com/BenjaminAaron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
-- [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
-- [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) - Headless IDA Pro MCP Server
-- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-- [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - Drive x64dbg with your AI. MCP server: 23 mega-tools / 153 endpoints for breakpoints, memory, disasm, tracing, anti-debug & PE dumping. Claude/Cursor/Windsurf/Cline. All local.
-- [bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy) - Bugcrowd’s baseline priority ratings for common security vulnerabilities
-- [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) - 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.
-- [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
-- [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
-- [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) - 用于检测api是否路由真实gpt5.6模型
-- [chen0416ccc-cpu/codex-windows-fast-patch-skill](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) - 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
-- [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
-- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
-- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
-- [dama-cyber/Casting-Workflow](https://github.com/dama-cyber/Casting-Workflow) - 
-- [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
-- [davaded/frontend-art-direction](https://github.com/davaded/frontend-art-direction) - 
-- [ddys9621/MuMuAINovel](https://github.com/ddys9621/MuMuAINovel) - 
-- [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering) - Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
-- [dj931567261/app-test-control](https://github.com/dj931567261/app-test-control) - 通过ai控制 app 以便自动化测试和修复/复现 bug
-- [dyedd/lens](https://github.com/dyedd/lens) - 为个人打造的最强大模型（LLM）API聚合系统
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
-- [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) - 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/Yakit MCP、IDA/Ghidra MCP。
-- [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-- [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
-- [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
-- [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
-- [FuDie0915/Super-Instruct-Codex-5.6](https://github.com/FuDie0915/Super-Instruct-Codex-5.6) - 针对GPT 5.6的破甲实验项目，基于Rust开发
-- [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
-- [GALIAIS/CTF-Sandbox-Orchestrator](https://github.com/GALIAIS/CTF-Sandbox-Orchestrator) - 
-- [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter) - Docker service for OpenAI Privacy Filter (PII redaction API)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
-- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-- [hanlinwenyuan/hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker) - 检查第三方AI API是否掺假以及渠道一致
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-- [Hello-Application-XH/HelloKimi](https://github.com/Hello-Application-XH/HelloKimi) - Kimi的 Cloudflare Worker 2API层，提供 OpenAI协议兼容接口，支持流式对话、Tools调用。无需配置，部署即用。
-- [hellowind777/hello2cc](https://github.com/hellowind777/hello2cc) - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
-- [HG-ha/ICP_Query](https://github.com/HG-ha/ICP_Query) - 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [HM2899/grokcli-2api](https://github.com/HM2899/grokcli-2api) - 
-- [huihuilikaile/CTF-BTFly](https://github.com/huihuilikaile/CTF-BTFly) - 一个基于pi的自动化ctf agent解题工具
-- [iammaimai/claude-code-fixed](https://github.com/iammaimai/claude-code-fixed) - 
-- [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) - A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）
-- [imraywang/wewrite](https://github.com/imraywang/wewrite) - 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
-- [inliver233/Ai-Novel](https://github.com/inliver233/Ai-Novel) - 强大的ai小说创作网站
-- [irsdl/webhacklist](https://github.com/irsdl/webhacklist) - Archive of the Top 10 Web Hacking Techniques - every nominee since 2006, preserved
-- [ismoiloffS/EzSolver](https://github.com/ismoiloffS/EzSolver) - Cloudflare Turnstile solver & bypass — Python, real Chrome browser, no paid APIs. Local HTTP API service included. Auto-solves invisible and managed (checkbox) widgets. Works on Windows   & Linux. Fast, lightweight, zero third-party captcha services.
-- [james-6-23/codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [Jia-Ethan/claude-keysmith](https://github.com/Jia-Ethan/claude-keysmith) - Managed Claude Code instruction deployment with safe CLI recovery and an unsigned macOS/Windows desktop beta.
-- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.
-- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
-- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
-- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
-- [JoySafety/JoySafety](https://github.com/JoySafety/JoySafety) - JoySafety
-- [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt) - 利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
-- [KaGty1/AITTAK](https://github.com/KaGty1/AITTAK) - AITTAK 是一个特制的红队AI中转站平台，部署在客户端与 AI API 上游之间，用于记录请求行为、通过监控用户Prompt及工具调用结果检测敏感信息泄露、以及通过在SSE注入工具调用实现任意命令执行。
-- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
-- [KayanoLiam/ContextX](https://github.com/KayanoLiam/ContextX) - A free remote MCP server offering normal (Grok 4.3) and deep (Grok 4.20 Multi-Agent) search. No API keys required, streaming support prevents gateway timeouts. 
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
-- [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-- [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) - 
-- [LainsNL/OutlookRegister](https://github.com/LainsNL/OutlookRegister) - Outlook 注册机
-- [liangdabiao/Claude-Code-Stock-Deep-Research-Agent](https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent) - 本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSearch、WebFetch、综合分析 质量: 多空平衡、明确风险、数据验证。简单使用：/stock-research AAPL, I want a quick overview
-- [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
-- [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
-- [lij768423-svg/grok2api-egress-enhancements](https://github.com/lij768423-svg/grok2api-egress-enhancements) - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI
-- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-- [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
-- [loc567/loc567](https://github.com/loc567/loc567) - loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-- [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) - 
-- [lxzagent/auto-phone-scheduler](https://github.com/lxzagent/auto-phone-scheduler) - 基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作。
-- [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave) - 智能渗透Agent Manager/Observer/Solver 多角色架构，基于 pi-mono SDK。
-- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [minsight-ai-info/AI-Search-Hub](https://github.com/minsight-ai-info/AI-Search-Hub) - One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取
-- [miunasu/IDA-Skill](https://github.com/miunasu/IDA-Skill) - 使用skill让 AI Agent 像安全分析师一样分析恶意样本 | AI Agent skill for automated malware analysis using IDA Pro
-- [mkcs121/APK-Easy-Tool](https://github.com/mkcs121/APK-Easy-Tool) - Credits to evildog1 for developing this awesome tool
-- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
-- [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
-- [mumu-0922/GankAIGC](https://github.com/mumu-0922/GankAIGC) - GankAIGC在线网站
-- [MY0723/FLUX-Webscan](https://github.com/MY0723/FLUX-Webscan) - FLUX  是一款专业的Web安全扫描工具，JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析等功能。
-- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
-- [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) - 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payload、263 个 WAF/EDR 绕过、2887 份 HackerOne 真实案例、88,636 WooYun 案例统计
-- [neocanable/garlic](https://github.com/neocanable/garlic) - The world's fastest apk (android)/java open source decompiler
-- [NookMux/Antigravity2api-node-js](https://github.com/NookMux/Antigravity2api-node-js) - 
-- [NOTFROMCONCEN/clash_node_check](https://github.com/NOTFROMCONCEN/clash_node_check) - 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [oceanbase/powercontext](https://github.com/oceanbase/powercontext) - PowerContext: The Next Generation of PowerMem. Not only memory !!!
-- [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
-- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
-- [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
-- [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
-- [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
-- [opentokenz/mcpx](https://github.com/opentokenz/mcpx) - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。
-- [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
-- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
-- [oulkurt/fast-context-skill](https://github.com/oulkurt/fast-context-skill) - Codex Skill fork of fast-context-mcp that calls Windsurf Devstral without an MCP server
-- [overspace-labs/CaA](https://github.com/overspace-labs/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
-- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 🚀 自动化资产侦察与漏洞监控平台 (ARL-Next)。重构自经典 ARL，全面升级 Puppeteer + Nuclei 引擎，打通「天眼查/ICP ➔ 资产发现 ➔ 漏洞扫描 ➔ 威胁情报追踪」安全闭环。支持 Docker 极简部署，AI 二开友好。
-- [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.  Install, list, start, stop, unregister, and configure your WSL distros​ from one place.
-- [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [pwno-io/pwno-mcp](https://github.com/pwno-io/pwno-mcp) - MCP for Pwn
-- [qicfan/qmediasync](https://github.com/qicfan/qmediasync) - 基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等
-- [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
-- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - A KernelSU based root solution for Android
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [RuoJi6/audit-skills](https://github.com/RuoJi6/audit-skills) - 专注于代码审计skill，最小化轻量化skill，只负责安全边界。
-- [s1g0day/ICP_Query_Batch](https://github.com/s1g0day/ICP_Query_Batch) - 从工业和信息化部政务服务平台进行的ICP备案查询，核心是 HG-ha 师傅的 ICP_Query 项目
-- [Sayhi-bzb/Agent-HTML](https://github.com/Sayhi-bzb/Agent-HTML) - You don't need a chat ui but a canvas with ai.
-- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
-- [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
-- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
-- [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
-- [SummerSec/LOF_Arbiter](https://github.com/SummerSec/LOF_Arbiter) - LOF_Arbiter (套利)
-- [systemoutprintlnhelloworld/plus-pp-helper](https://github.com/systemoutprintlnhelloworld/plus-pp-helper) - 
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
-- [taisuii/rusda](https://github.com/taisuii/rusda) - 对frida 的patch，产物可直接下载Release
-- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-- [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 天天卡网
-- [timwhitez/C0de1ndex](https://github.com/timwhitez/C0de1ndex) - AI 驱动的代码库索引工具
-- [u33pk/mitmproxy-mcp](https://github.com/u33pk/mitmproxy-mcp) - 
-- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [val1813/kaiwu](https://github.com/val1813/kaiwu) - 本地开源模型部署器，一键部署，支持各类系统，主流模型。
-- [voidcraft-dev/memory-forge-rs](https://github.com/voidcraft-dev/memory-forge-rs) - Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI & pi &Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
-- [walkingddd/TgtoDrive](https://github.com/walkingddd/TgtoDrive) - 一条龙网盘媒体自动化平台：从找资源、自动转存、智能整理、挂载 STRM、到 Emby 302 直链播放，全流程打通；重点强化 115 / 123 / 光鸭云盘整理与转存、115 / 123 /光鸭云盘 STRM 全量与增量生成、以及 Emby 反向代理 302 播放能力。
-- [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.
-- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
-- [watchttvv/free-proxy-list](https://github.com/watchttvv/free-proxy-list) - free socks5 http https proxy-list 免费socks5代理 socks5爬虫代理 最新socks5
-- [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill) - 糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！
-- [wenbochang888/github-trending-spider](https://github.com/wenbochang888/github-trending-spider) - 每日AI前沿信息。开源趋势、社区热议、AI 动态
-- [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) - Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
-- [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) - gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶
-- [wkeqin/mimi3](https://github.com/wkeqin/mimi3) - 
-- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) -  Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
-- [woodpecker-appstore/ghost-bits-encoder](https://github.com/woodpecker-appstore/ghost-bits-encoder) - ghost-bits-encoder 是一个面向 Woodpecker 的辅助插件，围绕 Ghost Bits / Unicode 高位包装思路，提供通用编解码、JSON 相关编码、URL 相关编码以及若干专项辅助能力。
-- [wpsec/ARL-Source-Install](https://github.com/wpsec/ARL-Source-Install) - 基于 ARL 深度扩展与持续优化的互联网资产自动化收集平台，面向资产发现、暴露面梳理、风险排查与持续监测等场景，提供域名识别、子域名发现、测绘引擎查询、端口与服务识别、指纹分析、URL 提取、漏洞检测、计划任务与结果汇总等能力 系统适用于乙方专业安全厂商、甲方安全运维部门开展日常资产盘点、攻击面治理与安全运营、安服交付支撑工作。欢迎各位师傅提bug，共同维护～
-- [wuwei-crg/AutoLXB](https://github.com/wuwei-crg/AutoLXB) - 基于常驻守护进程的 Android 自动化框架，支持多任务定时执行。| Android automation framework with persistent daemon and scheduled tasks.
-- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [xgo-dev/llgo](https://github.com/xgo-dev/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
-- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
-- [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - Fast, context-efficient repository tools for AI agents (MCP)
-- [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon) - 腾讯云智能渗透黑客松 Official repository of Tencent Cloud Intelligent Penetration Hackathon. Showcasing top open-source projects of LLM-based autonomous penetration agents, including multi-agent collaboration, automated penetration, AI-driven offensive security, and intelligent attack-defense solutions.
-- [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
-- [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
-- [Yrzhe/pagefly](https://github.com/Yrzhe/pagefly) - Personal Knowledge OS — Capture → Distill → Compile → Serve. Self-hosted knowledge data platform with AI agents, Telegram bot, and REST API.
-- [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
-- [Yvesssn/DetectDee](https://github.com/Yvesssn/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
-- [zhangsalute1/fanqietrend-main](https://github.com/zhangsalute1/fanqietrend-main) - 
-- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
-- [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) - AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
-- [ZKY-DW-Wait-me/YOLO-CAPTCHA](https://github.com/ZKY-DW-Wait-me/YOLO-CAPTCHA) - 本项目是一个基于 YOLO11n 架构的轻量化验证码识别模型。
-- [ZRainbow1275/AutoTeam-F](https://github.com/ZRainbow1275/AutoTeam-F) - 更好的Autoteam，实现前端到后端全方位的加强，同时可以批量获取免费号
-- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 ## 漏洞扫描
 
@@ -1131,6 +1098,7 @@
 - [eeeeeeeeee-code/e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config) - 综合后渗透方面的杂烩
 - [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
 - [ekkoo-z/Z-Godzilla_ekp](https://github.com/ekkoo-z/Z-Godzilla_ekp) - 哥斯拉webshell管理工具二次开发规避流量检测设备
+- [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [Esonhugh/Gopherus3](https://github.com/Esonhugh/Gopherus3) - Python3 Based gopherus, completely refactored and added more feature.
 - [Esonhugh/KubernetesCS](https://github.com/Esonhugh/KubernetesCS) - Kubernetes has its “ADCS” -- How To Backdoor a Kubernetes in silence and more persistent?
@@ -1159,6 +1127,7 @@
 - [JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11](https://github.com/JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11) - 角宿武器库官方发布页面
 - [Joe1sn/S-inject](https://github.com/Joe1sn/S-inject) - 支持x86/x64的DLL和Shellcode 的Windows注入的免杀工具，支持图形化界面
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+- [KaGty1/AITTAK](https://github.com/KaGty1/AITTAK) - AITTAK 是一个特制的红队AI中转站平台，部署在客户端与 AI API 上游之间，用于记录请求行为、通过监控用户Prompt及工具调用结果检测敏感信息泄露、以及通过在SSE注入工具调用实现任意命令执行。
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [KimJun1010/WeblogicTool](https://github.com/KimJun1010/WeblogicTool) - WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
@@ -1173,6 +1142,7 @@
 - [Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) - Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入
 - [Lotus6/JavaGadgetGenerator](https://github.com/Lotus6/JavaGadgetGenerator) - JavaGadgetGenerator 工具，支持 ysoserial，Hessian，字节码，Expr/SSTI，Shiro，JDBC 等 Gadget 生成，封装，混淆，出网延迟探测，内存马注入等...
 - [lz520520/railgun](https://github.com/lz520520/railgun) - 
+- [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave) - 智能渗透Agent Manager/Observer/Solver 多角色架构，基于 pi-mono SDK。
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
@@ -1190,8 +1160,10 @@
 - [noctiro/stormin](https://github.com/noctiro/stormin) - 通用盗号网站注册轰炸机 适用于针对QQ、Steam等平台的各类盗号网站
 - [nxenon/grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - gRPC-Web Pentesting Suite + Burp Suite Extension / Hack gRPC-Web Applications (Official BApp Extension Available)
 - [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
+- [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [p0dalirius/pyFindUncommonShares](https://github.com/p0dalirius/pyFindUncommonShares) - FindUncommonShares is a Python script allowing to quickly find uncommon shares in vast Windows Domains, and filter by READ or WRITE accesses.
 - [p1g3/dingwave](https://github.com/p1g3/dingwave) - 钉钉数据库解密工具，支持 WEB UI 展示 | DingTalk Database Decryption Tool with Web UI Visualization.
+- [Pa55w0rd/secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill) - SecKnowledge - Web与AI安全测试知识技能
 - [peass-ng/CloudPEASS](https://github.com/peass-ng/CloudPEASS) - 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [pen4uin/java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持自定义的 Java 回显载荷生成工具｜A customizable Java echo payload generation tool.
@@ -1216,7 +1188,7 @@
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [SaadAhla/FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it 
 - [safe6Sec/PentestDB](https://github.com/safe6Sec/PentestDB) - 各种数据库的利用姿势
-- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI penetration testing agent driven by graph-based cognitive reasoning.
+- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning. Developed by the Intelligent Offense & Defense Research Group, led by Professor Lu Hui and Tian Zhihong at Fang Class, Guangzhou University.
 - [savior-only/Spring_All_Reachable](https://github.com/savior-only/Spring_All_Reachable) - Spring漏洞综合利用工具
 - [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) - 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
@@ -1245,6 +1217,7 @@
 - [tophant-ai/Daybreak](https://github.com/tophant-ai/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
 - [TryGOTry/AutoGeaconC2](https://github.com/TryGOTry/AutoGeaconC2) - AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike
 - [ttstormxx/lineadd](https://github.com/ttstormxx/lineadd) - lineadd 渗透测试字典管理工具, 让字典管理生活轻松一点。Penetration test dictionary management tool, make dictionary management life a little easier.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
 - [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
@@ -1256,25 +1229,30 @@
 - [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
+- [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) - Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 - [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
 - [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
 - [Whoopsunix/PPPYSO](https://github.com/Whoopsunix/PPPYSO) - proof-of-concept for generating Java deserialization payload | Proxy MemShell
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) - HeapDump敏感信息提取工具
 - [wolf0x/WechatShield](https://github.com/wolf0x/WechatShield) - 
+- [woodpecker-appstore/ghost-bits-encoder](https://github.com/woodpecker-appstore/ghost-bits-encoder) - ghost-bits-encoder 是一个面向 Woodpecker 的辅助插件，围绕 Ghost Bits / Unicode 高位包装思路，提供通用编解码、JSON 相关编码、URL 相关编码以及若干专项辅助能力。
 - [wyzxxz/jndi_tool](https://github.com/wyzxxz/jndi_tool) - JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell，高版本JDK场景下利用等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具
 - [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) - XBOW Validation Benchmarks
 - [xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI) - 用于Webshell木马免杀、流量加密传输，多多支持star
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
-- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
+- [ybdt/Evasion-Hub](https://github.com/ybdt/Evasion-Hub) - Endpoint and Lateral Movement Evasion
+- [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon) - 腾讯云智能渗透黑客松 Official repository of Tencent Cloud Intelligent Penetration Hackathon. Showcasing top open-source projects of LLM-based autonomous penetration agents, including multi-agent collaboration, automated penetration, AI-driven offensive security, and intelligent attack-defense solutions.
 - [yinsel/BypassAV](https://github.com/yinsel/BypassAV) - 一款基于PE Patch技术的后渗透免杀工具，主要支持x64
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
 - [yuyan-sec/druid_sessions](https://github.com/yuyan-sec/druid_sessions) - 获取 alibaba druid 一些 sessions , sql , urls
+- [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [z-bool/Venom-Transponder](https://github.com/z-bool/Venom-Transponder) - 毒液流量转发器：自动化捡洞/打点/跳板必备神器，支持联动URL爬虫、各种被动扫描器。
 - [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days from security researchers
 - [ZeroMemoryEx/Blackout](https://github.com/ZeroMemoryEx/Blackout) - kill anti-malware protected processes ( BYOVD ) 
+- [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
 - [zyylhn/redis_rce](https://github.com/zyylhn/redis_rce) - Redis primary/secondary replication RCE
 
 ## 逆向破解
@@ -1288,7 +1266,10 @@
 - [AshenOneYe/FridaAntiRootDetection](https://github.com/AshenOneYe/FridaAntiRootDetection) - A frida script for bypass common root detection,the collection of detection methods is still improving！
 - [auto-yui-patch/fiddler-everywhere-patch-automated](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated) - Want Fiddler Everywhere Enterprise for Free? Then Patch it! Patch any version Automatically!
 - [axcheron/pyvmx-cracker](https://github.com/axcheron/pyvmx-cracker) - Simple tool to crack VMware VMX encryption passwords
+- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 - [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+- [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) - Headless IDA Pro MCP Server
+- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [bontchev/pcodedmp](https://github.com/bontchev/pcodedmp) - A VBA p-code disassembler
 - [boy-hack/go-strip](https://github.com/boy-hack/go-strip) - 清除Go编译时自带的信息
 - [BreakOnCrash/wxapkg](https://github.com/BreakOnCrash/wxapkg) - .wxapkg analysis tool for macOS
@@ -1300,12 +1281,14 @@
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
 - [CRONUS-Security/profile-builder](https://github.com/CRONUS-Security/profile-builder) - A demo for automatically build dwarf file for volatility2
+- [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 - [deezertidal/stash-override](https://github.com/deezertidal/stash-override) - Stash覆写 脚本 规则 override stoverride 磁贴 面板 分流 破解 解锁
 - [DERE-ad2001/Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
 - [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
+- [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
 - [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis) - 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - SGN — polymorphic binary encoder
@@ -1313,13 +1296,17 @@
 - [ErodedElk/Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8) - 零基础入门V8引擎漏洞挖掘
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 - [ezshine/wxapkg-convertor](https://github.com/ezshine/wxapkg-convertor) - 一个反编译微信小程序的工具，仓库也收集各种微信小程序/小游戏.wxapkg文件
+- [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) - 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/Yakit MCP、IDA/Ghidra MCP。
 - [FiYHer/kernel_window_hide](https://github.com/FiYHer/kernel_window_hide) - 内核级别隐藏指定窗口
 - [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
+- [FuDie0915/Super-Instruct-Codex-5.6](https://github.com/FuDie0915/Super-Instruct-Codex-5.6) - 针对GPT 5.6的破甲实验项目，基于Rust开发
+- [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
 - [gh0stkey/Binary-Learning](https://github.com/gh0stkey/Binary-Learning) - 二进制安全相关的学习笔记，感谢滴水逆向的所有老师辛苦教学。
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [H4ckForJob/kingkong](https://github.com/H4ckForJob/kingkong) - 解密哥斯拉webshell管理工具流量
 - [HelloHuDi/AndroidReverseNotes](https://github.com/HelloHuDi/AndroidReverseNotes) - Android逆向笔记---从入门到入土
 - [hexian2001/HRP_Auto_Analyze](https://github.com/hexian2001/HRP_Auto_Analyze) - 一款基于LLM与IDA pro的高效的对ELF进行危险函数污点追踪分析插件，可生成超炫丽HTML报告，帮助用户快速定位和理解风险函数调用过程。
+- [iammaimai/claude-code-fixed](https://github.com/iammaimai/claude-code-fixed) - 
 - [ice-doom/codeql_compile](https://github.com/ice-doom/codeql_compile) - 自动反编译闭源应用，创建codeql数据库
 - [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
 - [INotGreen/SharpThief](https://github.com/INotGreen/SharpThief) - 一键提取exe的图标、嵌入图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
@@ -1328,22 +1315,33 @@
 - [Jlan45/HyperOS-BLBind-Bypass](https://github.com/Jlan45/HyperOS-BLBind-Bypass) - HyperOS Bypass的Python实现，单文件即可使用
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries language models to speed up reverse-engineering
 - [kjfx/AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
+- [LainsNL/OutlookRegister](https://github.com/LainsNL/OutlookRegister) - Outlook 注册机
 - [lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver) - DBeaver数据库密码解密工具
+- [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 - [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.2.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scripts to disassembly and (experimentally) source code.
+- [loc567/loc567](https://github.com/loc567/loc567) - loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 - [milu001/sundeskQ](https://github.com/milu001/sundeskQ) - 向日葵密码提取、todesk密码提取，ID、临时密码，安全密码读取工具
 - [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
+- [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 - [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40+厂商的加固检测，欢迎大家提交无法识别的app
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [MxIris-Reverse-Engineering/ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server) - A Model Context Protocol server for IDA
 - [namename333/idapromcp_333](https://github.com/namename333/idapromcp_333) - 本项目基于 [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 二次开发，轻量化了一些功能，在大项目逆向中占用更小，消耗更少token
+- [neocanable/garlic](https://github.com/neocanable/garlic) - The world's fastest apk (android)/java open source decompiler
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl) - 星球伴侣（无限下载版） - 知识星球助手
 - [ohos-decompiler/abc-decompiler](https://github.com/ohos-decompiler/abc-decompiler) - 
 - [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
+- [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
+- [pwno-io/pwno-mcp](https://github.com/pwno-io/pwno-mcp) - MCP for Pwn
+- [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
+- [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) - A KernelSU based root solution for Android
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 - [sim0n/Caesium](https://github.com/sim0n/Caesium) - A Java bytecode obfuscator
+- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+- [taisuii/rusda](https://github.com/taisuii/rusda) - 对frida 的patch，产物可直接下载Release
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [timwhitez/BinHol](https://github.com/timwhitez/BinHol) - Binary Hollowing
 - [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
@@ -1353,9 +1351,11 @@
 - [wa1ki0g/Script-For-FridaHook](https://github.com/wa1ki0g/Script-For-FridaHook) - I Love frida
 - [wINfOG/My_Reverse_Book](https://github.com/wINfOG/My_Reverse_Book) - 愿我的努力与付出，能成为你向上攀登的基石。要是10年前有人告诉我这些就好了。
 - [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+- [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
 - [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - A tool for automatic patch shellcode into binary file to bypass AV.  /  一个自动patch shellcode到二进制文件的工具
 - [Yricky/abcde](https://github.com/Yricky/abcde) - openHarmony逆向工具包，初步支持反编译
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
+- [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) - AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 - [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
 
