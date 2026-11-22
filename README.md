@@ -4,18 +4,18 @@
 
 ## 统计信息
 
-总仓库数：1395个
+总仓库数：1402个
 分类数：17个
 
 - 逆向破解: 115个仓库
-- 开发工具&框架: 326个仓库
+- 开发工具&框架: 330个仓库
 - 取证溯源: 13个仓库
 - 信息搜集: 100个仓库
 - LLM安全: 23个仓库
 - Web安全: 83个仓库
 - 漏洞扫描: 61个仓库
-- 红队&渗透测试: 202个仓库
-- AI应用: 263个仓库
+- 红队&渗透测试: 203个仓库
+- AI应用: 265个仓库
 - burpsuite插件: 28个仓库
 - CTF相关: 36个仓库
 - DevOps: 49个仓库
@@ -68,7 +68,6 @@
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [akasakariko/ContextX](https://github.com/akasakariko/ContextX) - A free remote MCP server offering normal (Grok 4.3) and deep (Grok 4.20 Multi-Agent) search. No API keys required, streaming support prevents gateway timeouts. 
-- [alexj11324/Mikka](https://github.com/alexj11324/Mikka) - Move your coding agents off your laptop. Mikka runs each task on its own isolated cloud machine, connects it with the agents on your computers, and sets everything up from one sentence to the Coordinator.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️
@@ -80,7 +79,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [b1ank1108/LLM-Star-Classifier](https://github.com/b1ank1108/LLM-Star-Classifier) - 这是一个使用 🤖 AI 对 GitHub Star 的仓库进行分类和总结的工具。
-- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [BenjaminAaron196/CLIProxyAPI](https://github.com/BenjaminAaron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
@@ -115,11 +114,13 @@
 - [ddys9621/WenlanAI](https://github.com/ddys9621/WenlanAI) - 
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System
 - [Dianel555/DSkills](https://github.com/Dianel555/DSkills) - CLI tools skills for AI coding assistants (Claude Code, Codex, Antigravity CLI).
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
 - [dj931567261/app-test-control](https://github.com/dj931567261/app-test-control) - 通过ai控制 app 以便自动化测试和修复/复现 bug
 - [DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN](https://github.com/DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN) - 
 - [DUNHKpcc/Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian) - Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. 
 - [dyedd/lens](https://github.com/dyedd/lens) - 专为个人打造的轻量 LLM API 网关，统一管理多协议、多供应商，支持 Claude Code, Codex, OpenCode, OpenClaw, Grok Build, Hermes Agent、Pi 等 harness 调用，兼容 OpenAI（Chat、Responses、Embeddings、Images）、Anthropic、Gemini、Rerank 入口协议。
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [Esonhugh/claude-code](https://github.com/Esonhugh/claude-code) - 想给世界留下开源的无后门采集的 Claude Code (Harness/Agent/SDK)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [feitangyuan/onetake](https://github.com/feitangyuan/onetake) - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.
 - [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
@@ -160,6 +161,7 @@
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) - Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
+- [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.
 - [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt) - 利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
 - [kaibush/grok-iq](https://github.com/kaibush/grok-iq) - GrokIQ - grok4.5/grok4.6 free 模型降智检测平台，可与grok-register项目联动使用
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
@@ -212,13 +214,13 @@
 - [oDaiSuno/retool2API](https://github.com/oDaiSuno/retool2API) - 
 - [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Manina AI: let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [ox01024/awesome-offensive-security-ai](https://github.com/ox01024/awesome-offensive-security-ai) - A curated list of outstanding offensive security AI work, papers, organizations, libraries, and benchmarks.
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
@@ -236,7 +238,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [run-bigpig/jcp](https://github.com/run-bigpig/jcp) - 韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报直推手机，支持接入 MCP     架构，赋能 AI 自然语言对话分析、实时检索、情感洞察与趋势预测。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/Bark/Slack     等渠道智能推送。
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -247,7 +249,6 @@
 - [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 - [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 - [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
-- [su-kaka/agy2api](https://github.com/su-kaka/agy2api) - 将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [t59688/arboris-novel](https://github.com/t59688/arboris-novel) - AI 写作伙伴，点亮你的创作灵感
 - [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - wooyun-legacy skill for claude code 
@@ -273,6 +274,7 @@
 - [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [voidcraft-dev/memory-forge-rs](https://github.com/voidcraft-dev/memory-forge-rs) - Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI & pi &Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web to get things done for you.
 - [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Water008/QwenAPI](https://github.com/Water008/QwenAPI) - 
@@ -418,7 +420,7 @@
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
-- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source library for applying programmable safety and security controls to LLM and agentic applications.
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [protectai/rebuff](https://github.com/protectai/rebuff) - LLM Prompt Injection Detector
 - [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).
@@ -471,7 +473,7 @@
 - [gprime31/WAF-bypass-xss-payloads](https://github.com/gprime31/WAF-bypass-xss-payloads) - XSS payloads for bypassing WAF. This repository is updating continuously.
 - [hackerscrolls/SecurityTips](https://github.com/hackerscrolls/SecurityTips) - 
 - [Hardw01f/Vulnerability-goapp](https://github.com/Hardw01f/Vulnerability-goapp) - Web application build Golang with Vulnerability
-- [irsdl/webhacklist](https://github.com/irsdl/webhacklist) - Archive of the Top 10 Web Hacking Techniques - every nominee since 2006, preserved
+- [irsdl/webhacklist](https://github.com/irsdl/webhacklist) - Independent web hacking research archive: official Top 10 nominees and winners since 2006, plus additional discoveries, preserved articles and English translations.
 - [ismoiloffS/EzSolver](https://github.com/ismoiloffS/EzSolver) - Cloudflare Turnstile solver & bypass — Python, real Chrome browser, no paid APIs. Local HTTP API service included. Auto-solves invisible and managed (checkbox) widgets. Works on Windows   & Linux. Fast, lightweight, zero third-party captcha services.
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
@@ -784,6 +786,7 @@
 - [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
 - [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [aspectly-labs/Mikka](https://github.com/aspectly-labs/Mikka) - Move your coding agents off your laptop. Mikka runs each task on its own isolated cloud machine, connects it with the agents on your computers, and sets everything up from one sentence to the Coordinator.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) - Codex CLI 多智能体并行调度配置参考模板——启用原生并行能力，实现主代理自主协调与子代理高效任务分发。Codex CLI Multi-Agent Parallel Scheduling Configuration Reference Template Enabling Native Parallelism for Autonomous Primary Agent Coordination and Efficient Sub-Agent Task Distribution.
 - [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) - ScopeSentry工具的前端UI
@@ -825,6 +828,7 @@
 - [Cometix-Org/cometix-tab-copilot-exp](https://github.com/Cometix-Org/cometix-tab-copilot-exp) - 
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+- [Ctrl-Creeper/hermes-phone-agent](https://github.com/Ctrl-Creeper/hermes-phone-agent) - Let your Hermes to control Android phone (Wechat optimize)!
 - [cursor/cursor](https://github.com/cursor/cursor) - 
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) - 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库
@@ -886,7 +890,7 @@
 - [hellowind777/hello2cc](https://github.com/hellowind777/hello2cc) - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 - [hengfengliya/imgood](https://github.com/hengfengliya/imgood) - 
 - [heromantf/acemcp-relay](https://github.com/heromantf/acemcp-relay) - 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 - [hitsz-ids/auto-regex](https://github.com/hitsz-ids/auto-regex) - automatic regex generation tool
@@ -909,6 +913,7 @@
 - [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层
 - [Jia-Ethan/claude-keysmith](https://github.com/Jia-Ethan/claude-keysmith) - Managed Claude Code instruction deployment with safe CLI recovery and an unsigned macOS/Windows desktop beta.
 - [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.
+- [jin-yu-liu/Claude-Hydra](https://github.com/jin-yu-liu/Claude-Hydra) - 同时运行多个Claude desktop账号：每个账号独立的数据目录与登录态，可单独配置代理节点（支持 Clash 订阅）、时区和防泄漏策略。支持 Windows / macOS。
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -977,7 +982,7 @@
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-- [ppxb/miyabi](https://github.com/ppxb/miyabi) - 配合 115 网盘的一站式 Jav & Emby 管理平台
+- [ppxb/miyabi](https://github.com/ppxb/miyabi) - 一站式 Jav 管理平台
 - [prime-zt/pure-clash](https://github.com/prime-zt/pure-clash) - A lightweight native Mihomo desktop client built with Rust and Zed GPUI
 - [projectdiscovery/retryablehttp-go](https://github.com/projectdiscovery/retryablehttp-go) - Package retryablehttp provides a familiar HTTP client interface with automatic retries and exponential backoff
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
@@ -1000,6 +1005,7 @@
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [ruezo/docode](https://github.com/ruezo/docode) - A Chromium extension that turns Linux DO into a VS Code workbench. | 像读源码一样逛 LINUX DO。
 - [RuoJi6/java-decompile-mcp](https://github.com/RuoJi6/java-decompile-mcp) - 
+- [RYF5584/WeAppDev](https://github.com/RYF5584/WeAppDev) - 免微信运行手机小程序，Devtools，云网关，云函数抓包，网络抓包改写，免Root，免Xposed，支持开发插件，实现小程序扩展脚本功能
 - [Sayhi-bzb/Agent-HTML](https://github.com/Sayhi-bzb/Agent-HTML) - You don't need a chat ui but a canvas with ai.
 - [scholay-xsime/xsime](https://github.com/scholay-xsime/xsime) - XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.
 - [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
@@ -1010,7 +1016,7 @@
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [spacering-net/codeg](https://github.com/spacering-net/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [sqlsec/GG-Present](https://github.com/sqlsec/GG-Present) - 国光自用的 TouchBar MTMR 规则
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 - [starc007/ui-components](https://github.com/starc007/ui-components) - beUI: free animated React components built on Framer Motion and Tailwind CSS. Install with the shadcn CLI, or copy the source.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
@@ -1083,11 +1089,11 @@
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [Yricky/proxycrab](https://github.com/Yricky/proxycrab) - 面向开发者与 AI Agent 的开源流量调试工作台，让业务异常可筛选、调试修改可追溯、排查现场可分享。
 - [yuque-helper/yuque2book](https://github.com/yuque-helper/yuque2book) - export yuque repo to a book 将你的语雀文档导出的工具
+- [YyAdnBug/kitty-tools](https://github.com/YyAdnBug/kitty-tools) - 纯原生 macOS 菜单栏效率工具：剪贴板历史、翻译（划词 / 截图翻译 / 大模型流式）、启动器、截图标注与长截图。Swift 6 + SwiftUI / AppKit，零第三方依赖，Apple 芯片，macOS 15+。
 - [yzddmr6/android-mainline-port](https://github.com/yzddmr6/android-mainline-port) - 把主线 Linux 移植到安卓手机、平板的 Agent Skill：流程、决策规则与踩坑经验 · Agent skill for porting mainline Linux to Android phones and tablets
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
-- [zhoufuweigg/guoapp](https://github.com/zhoufuweigg/guoapp) - 红果鉴/真果鉴 - 专属私有短剧客户端
 - [zhuifengshen/DingtalkChatbot](https://github.com/zhuifengshen/DingtalkChatbot) - 钉钉群自定义机器人消息Python封装
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
@@ -1333,6 +1339,7 @@
 - [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
 - [TideSec/GoBypassAV](https://github.com/TideSec/GoBypassAV) - 整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。
 - [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
+- [TokEat/argus](https://github.com/TokEat/argus) - 分布式攻击面管理与漏洞巡航平台 | Distributed ASM with gRPC agents, Nuclei v3 + GoPoc, and AI Copilot
 - [Tokeii0/FakeLinuxBaseLineCheck](https://github.com/Tokeii0/FakeLinuxBaseLineCheck) - 
 - [tophant-ai/Daybreak](https://github.com/tophant-ai/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
 - [TryGOTry/AutoGeaconC2](https://github.com/TryGOTry/AutoGeaconC2) - AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike
@@ -1371,7 +1378,7 @@
 - [z-bool/Venom-Transponder](https://github.com/z-bool/Venom-Transponder) - 毒液流量转发器：自动化捡洞/打点/跳板必备神器，支持联动URL爬虫、各种被动扫描器。
 - [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days from security researchers
 - [ZeroMemoryEx/Blackout](https://github.com/ZeroMemoryEx/Blackout) - kill anti-malware protected processes ( BYOVD ) 
-- [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) - 全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。
+- [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) - 全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测、网络安全检查为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。
 - [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.
 - [zyylhn/redis_rce](https://github.com/zyylhn/redis_rce) - Redis primary/secondary replication RCE
 
@@ -1399,12 +1406,12 @@
 - [burpheart/Gepetto-ChatGPT](https://github.com/burpheart/Gepetto-ChatGPT) - IDA plugin which queries OpenAI's ChatGPT model to speed up reverse-engineering 
 - [Bw3ll/ROP_ROCKET](https://github.com/Bw3ll/ROP_ROCKET) - ROP ROCKET is an advanced code-reuse attack framework, with extensive ROP chain generation capabilities, including for novel Windows Syscalls attack, a novel Heaven's Gate, and "shellcodeless" ROP. The framework utilizes emulation and obfuscation to help expand the attack surface.
 - [CBLabresearch/Clematis](https://github.com/CBLabresearch/Clematis) - PE to shellcode
+- [chxcodepro/claude-privacy](https://github.com/chxcodepro/claude-privacy) - Claude Android IPv4 access gate and local privacy settings for SukiSU and LSPosed
 - [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
 - [CRONUS-Security/profile-builder](https://github.com/CRONUS-Security/profile-builder) - A demo for automatically build dwarf file for volatility2
-- [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 - [deezertidal/stash-override](https://github.com/deezertidal/stash-override) - Stash覆写 脚本 规则 override stoverride 磁贴 面板 分流 破解 解锁
